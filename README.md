@@ -24,7 +24,7 @@ Dengan adanya aplikasi ini, pengguna dapat menghindari pembelian buku bajakan da
 
 # Daftar Modul yang akan Diimplementasikan serta Kontak Kerja Anggota Kelompok
 **1. Homepage - Fikri Massaid Wahab (2206083395)**<br>
-- Halaman ini menampilkan katalog buku-buku terbaru yang ready di pinjam dalam bentuk kartu (cards). Akan ada tampilan pop up card, untuk user/guest yang ingin melakukan sign in atau register.
+Halaman ini menampilkan katalog buku-buku terbaru yang ready di pinjam dalam bentuk kartu (cards). Akan ada tampilan pop up card, untuk user/guest yang ingin melakukan sign in atau register.
 
 **2. Halaman Informasi Buku - Marchelina Anjani S (2206082770)**<br>
 Halaman ini berisi informasi rinci tentang buku, termasuk deskripsi, ulasan, dan informasi peminjaman.
@@ -42,8 +42,10 @@ Halaman ini adalah dashboard pribadi bagi anggota yang telah melakukan login. Me
 
 
 # Alur Pengintegrasian dengan Web Service Proyek Tengah Semester
-
-
+- Integrasi aplikasi mobile dan web service dapat dilakukan dengan cara melakukan pengambilan data berformat JSON atau *Javascript Object Notation* di aplikasi mobile pada web service dengan menggunakan URL yang sesuai.
+- Proses fetch dapat dilakukan dengan menggunakan `Uri.parse` dan `Dart` pada link yang sesuai, lalu mengambilnya menggunakan `GET` dengan tipe `application/json`.
+- Selanjutnya, data yang telah diambil dapat dapat di-*decode* menggunakan `jsonDecode()` yang nantinya akan di-*convert* melalui model yang telah dibuat dan ditampilkan secara asinkronus menggunakan *widget* `FutureBuilder`.
+- Data-data dari JSON tadi dapat digunakan secara CRUD pada kedua media secara ainkronus.
 
 # Peran atau aktor pengguna aplikasi
 

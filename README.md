@@ -38,9 +38,6 @@ Halaman khusus bagi anggota untuk mereview tentang buku yang mereka baca, member
 **5. Halaman Dashboard - Nabil Nazir Ahmad (2206082663)**<br>
 Halaman ini adalah dashboard pribadi bagi anggota yang telah melakukan login. Mereka dapat melihat aktivitas peminjaman mereka, buku-buku yang mereka pinjam, dan lain-lain.
 
-# Peran atau aktor pengguna aplikasi
-
-
 # Alur Pengintegrasian dengan Web Service Proyek Tengah Semester
 - Integrasi aplikasi mobile dan web service dapat dilakukan dengan cara melakukan pengambilan data berformat JSON atau *Javascript Object Notation* di aplikasi mobile pada web service dengan menggunakan URL yang sesuai.
 - Proses fetch dapat dilakukan dengan menggunakan `Uri.parse` dan `Dart` pada link yang sesuai, lalu mengambilnya menggunakan `GET` dengan tipe `application/json`.

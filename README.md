@@ -1,5 +1,5 @@
 # BookBuddies (Kelompok PBP - B02)
-
+## (Code Base Kelompok terdapat pada branch 'master')
 ## Anggota Kelompok
 - Farah Dhiya Ramadhina (2206082934)
 - Fikri Massaid Wahab (2206083395)

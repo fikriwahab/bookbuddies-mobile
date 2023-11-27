@@ -46,4 +46,8 @@ Halaman ini adalah dashboard pribadi bagi anggota yang telah melakukan login. Me
 
 # Peran atau aktor pengguna aplikasi
 
+1. Member
+Pengguna yang telah mendaftar dan memiliki akun. Mereka memiliki dashboard pribadi, memungkinkan mereka untuk meminjam atau meminjamkan buku, dan menerima informasi terkait batas waktu peminjaman serta denda. Ada tombol/menu untuk contribute, kemudian me-redirect ke halaman untuk pengisian data atau informasi tentang buku ingin dipinjamkan.
 
+2. Admin
+Pengguna yang mengelola peminjaman, seperti menetapkan tenggat waktu peminjaman dan mengelola kasus keterlambatan pengembalian buku. Selain itu, admin juga berperan dalam menyetujui request kontribusi dari member yang ingin meminjamkan buku. Jika admin telah meng-approve sebuah buku, maka buku tersebut akan ditambahkan pada katalog buku dan database yang nantinya akan menjadi visible bagi guest maupun member.

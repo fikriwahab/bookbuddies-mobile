@@ -47,11 +47,3 @@ Halaman ini adalah dashboard pribadi bagi anggota yang telah melakukan login. Me
 # Peran atau aktor pengguna aplikasi
 
 
-# Alur Pengintegrasian dengan Web Service Proyek Tengah Semester
-
-
-
-# Peran atau aktor pengguna aplikasi
-
-
-# Alur Pengintegrasian dengan Web Service Proyek Tengah Semester

@@ -65,7 +65,7 @@ class _EditReviewPageState extends State<EditReviewPage> {
               onPressed: () {
                 // Simpan review yang telah diedit
                 var newName = nameController.text;
-                var newJudul = nameController.text;
+                var newJudul = judulController.text;
                 var newReviewText = reviewController.text;
 
                 var editedReview = Review(

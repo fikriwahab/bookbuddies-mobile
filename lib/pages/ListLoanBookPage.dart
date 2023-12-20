@@ -68,7 +68,7 @@ class _ListLoanBookPageState extends State<ListLoanBookPage> {
                       ),
                     ),
                     const SizedBox(height: 10),
-                    Text("Due Date: ${snapshot.data![index].fields.name}"),
+                    Text("Nama: ${snapshot.data![index].fields.name}"),
                     const SizedBox(height: 10),
                     Text("Due Date: ${snapshot.data![index].fields.dueDate}"),
                     const SizedBox(height: 10),

@@ -33,7 +33,7 @@ Halaman ini berisi informasi rinci tentang buku, termasuk deskripsi, ulasan, dan
 Halaman ini digunakan bagi member untuk menyimpan buku yang sedang dipinjam oleh orang lain ke dalam daftar tunggu (waiting list) mereka. Untuk membookmark suatu buku member harus memasukkan data seperti nama dan kapan mereka ingin meminjam buku tersebut. 
 
 **4. Halaman Review Buku - Farah Dhiya Ramadhina (2206082934)**<br>
-Halaman khusus bagi anggota untuk mereview tentang buku yang mereka baca, memberikan ulasan dan rating.
+Halaman khusus bagi anggota untuk mereview tentang buku yang mereka baca, memberikan deskripsi ulasan dan rating. 
 
 **5. Halaman Dashboard - Nabil Nazir Ahmad (2206082663)**<br>
 Halaman ini adalah dashboard pribadi bagi anggota yang telah melakukan login. Mereka dapat melihat aktivitas peminjaman mereka, buku-buku yang mereka pinjam, dan lain-lain.

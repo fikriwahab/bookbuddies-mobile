@@ -1,0 +1,664 @@
+{
+   "checksum": "a20a672120d737efe01b7231a9c4f80b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13298131315377250",
+               "date_last_used": "0",
+               "guid": "db765037-15b0-4259-9ff6-a853cead94f1",
+               "id": "34",
+               "name": "Introduction - Interactive Lesson - Python Principles",
+               "type": "url",
+               "url": "https://pythonprinciples.com/lessons/Introduction/"
+            }, {
+               "date_added": "13297881960334099",
+               "date_last_used": "0",
+               "guid": "ccf381e0-2151-41fd-8f5c-7bd863835601",
+               "id": "35",
+               "name": "Python Lanjutan - Function - Function - Basic Structure - Skilvul",
+               "type": "url",
+               "url": "https://www.skilvul.com/courses/python-lanjutan/lessons/function/topics/function-basic-structure"
+            }, {
+               "date_added": "13297414676553691",
+               "date_last_used": "0",
+               "guid": "76d7e50a-7367-4aa4-a363-e101c16506df",
+               "id": "36",
+               "name": "DQLab | Daftar Kelas",
+               "type": "url",
+               "url": "https://academy.dqlab.id/main/module"
+            }, {
+               "date_added": "13297413985111943",
+               "date_last_used": "0",
+               "guid": "95e3688a-bdb7-402e-9f7b-0262319c07b8",
+               "id": "37",
+               "name": "Introduction to Python",
+               "type": "url",
+               "url": "https://www.w3schools.com/python/python_intro.asp"
+            }, {
+               "date_added": "13302712256049914",
+               "date_last_used": "0",
+               "guid": "f09c5d7f-8331-45b3-82d7-69b2a2bd8473",
+               "id": "38",
+               "name": "Pengenalan Python | Memulai Pemrograman Dengan Python | Dicoding Indonesia",
+               "type": "url",
+               "url": "https://www.dicoding.com/academies/86/tutorials/4733?from=15983"
+            }, {
+               "date_added": "13303290445647560",
+               "date_last_used": "0",
+               "guid": "c0216b16-aa66-479d-9811-3d67a42655a5",
+               "id": "39",
+               "name": "Learn to Code — For Free — Coding Courses for Busy People",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/"
+            }, {
+               "date_added": "13303384216425638",
+               "date_last_used": "0",
+               "guid": "b8445905-a1f8-4aa5-8052-170ce94aac00",
+               "id": "40",
+               "name": "greenduckzz on Scratch",
+               "type": "url",
+               "url": "https://scratch.mit.edu/users/greenduckzz/"
+            }, {
+               "date_added": "13303384361214185",
+               "date_last_used": "0",
+               "guid": "a0b08867-9645-42dd-b478-7f507d56bd5c",
+               "id": "41",
+               "name": "Scientific Computing with Python Certification | freeCodeCamp.org",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody"
+            }, {
+               "date_added": "13305442269758506",
+               "date_last_used": "0",
+               "guid": "e5cd57e8-ba60-4e0e-9134-d854364e6def",
+               "id": "42",
+               "name": "Python untuk Semua Orang | Coursera",
+               "type": "url",
+               "url": "https://www.coursera.org/specializations/python"
+            }, {
+               "date_added": "13305442291534555",
+               "date_last_used": "0",
+               "guid": "69715c05-e98d-4e25-a426-5605082e7976",
+               "id": "43",
+               "name": "",
+               "type": "url",
+               "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai"
+            }, {
+               "date_added": "13305821057395249",
+               "date_last_used": "0",
+               "guid": "f19f1362-05ad-448e-aefc-06e3a748bb30",
+               "id": "44",
+               "name": "Python for Everybody - Conditional Execution | Learn | freeCodeCamp.org",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/conditional-execution"
+            }, {
+               "date_added": "13306684053100792",
+               "date_last_used": "0",
+               "guid": "352c938b-8d70-442e-91a3-3809a5e9843b",
+               "id": "45",
+               "name": "Toko Buku Andaliman Books | Toko Buku Andaliman Books",
+               "type": "url",
+               "url": "https://www.andalimanbooks.com/download-bonus-toefl-breaker-28"
+            }, {
+               "date_added": "13306334065703595",
+               "date_last_used": "0",
+               "guid": "9156f2c9-aaf4-4c37-a93e-60a79aff0a08",
+               "id": "46",
+               "name": "CodingBat Java",
+               "type": "url",
+               "url": "https://codingbat.com/java?message=Account+created"
+            } ],
+            "date_added": "13309255404267495",
+            "date_last_used": "0",
+            "date_modified": "13309255404267495",
+            "guid": "148536ff-7aa7-4c4e-9115-45bc45eab799",
+            "id": "33",
+            "name": "belajar programmingg",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118007604588",
+               "date_last_used": "0",
+               "guid": "9b1d2980-9df4-46bd-964e-3a534929bc58",
+               "id": "48",
+               "name": "Think Java: How to Think Like a Computer Scientist",
+               "type": "url",
+               "url": "https://greenteapress.com/thinkjava7/thinkjava2.pdf"
+            }, {
+               "date_added": "13321118052587690",
+               "date_last_used": "0",
+               "guid": "ea186637-0f4a-48e7-b00c-877bae3c4310",
+               "id": "49",
+               "name": "Learning Hub - Replit",
+               "type": "url",
+               "url": "https://replit.com/learn/100-days-of-python/hub"
+            }, {
+               "date_added": "13321118068593757",
+               "date_last_used": "0",
+               "guid": "a5615af6-5b93-4466-b681-8af0bd9ec11d",
+               "id": "50",
+               "name": "latihan-pemrograman-ddp2 - Replit",
+               "type": "url",
+               "url": "https://replit.com/team/latihan-pemrograman-ddp2"
+            }, {
+               "date_added": "13321118094854145",
+               "date_last_used": "13327224666629877",
+               "guid": "75793ceb-ad0e-4bcb-b130-a452002d8875",
+               "id": "51",
+               "name": "marchelinaanjani2/lab0",
+               "type": "url",
+               "url": "https://github.com/marchelinaanjani2/lab0"
+            }, {
+               "date_added": "13321118113098003",
+               "date_last_used": "0",
+               "guid": "79b407bb-4cdd-456c-8d77-bcdf89a75363",
+               "id": "52",
+               "name": "Solve Java | HackerRank",
+               "type": "url",
+               "url": "https://www.hackerrank.com/domains/java"
+            }, {
+               "date_added": "13321329642726182",
+               "date_last_used": "0",
+               "guid": "11c487ca-7aa3-4d69-a8d9-475b958b667a",
+               "id": "53",
+               "name": "TP 1 - Methods - Google Docs",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1j2jEBpS9S3zhaLtABXcs9Q9nhzKS2WEMoIGZuGTAPrM/edit"
+            }, {
+               "date_added": "13321981940754093",
+               "date_last_used": "0",
+               "guid": "490f02b9-8597-4f24-aefe-bde0f211b8d2",
+               "id": "54",
+               "name": "Playground - OpenAI API",
+               "type": "url",
+               "url": "https://platform.openai.com/playground"
+            }, {
+               "date_added": "13322044238564354",
+               "date_last_used": "13322487495157995",
+               "guid": "65b0e507-f643-4477-92bd-8da6902940ef",
+               "id": "55",
+               "name": "New chat",
+               "type": "url",
+               "url": "https://chat.openai.com/chat"
+            }, {
+               "date_added": "13322066162161168",
+               "date_last_used": "0",
+               "guid": "0ed21a6c-734f-47c2-9325-57908b3a911b",
+               "id": "56",
+               "name": "Getting Started with a Java Project - Google Docs",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1LFRe4iRxjLmcOZrZ4q1qQPt6m-C7PIVTgpRYrKxDJkM/edit#heading=h.fy60kcxym2pi"
+            }, {
+               "date_added": "13324205123970350",
+               "date_last_used": "0",
+               "guid": "7a7f4271-6ba2-4bbd-84aa-578c8bbe9293",
+               "id": "57",
+               "name": "Asistensi UTS.pdf",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Asistensi%20UTS.pdf"
+            }, {
+               "date_added": "13324992259680572",
+               "date_last_used": "0",
+               "guid": "9aadd4ab-7914-43f0-a0ec-1f9d1d75fc09",
+               "id": "58",
+               "name": "Soal UTS DDP2 Sem Genap 22_23 1.pdf",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Soal%20UTS%20DDP2%20Sem%20Genap%2022_23%201.pdf"
+            } ],
+            "date_added": "13321117985633266",
+            "date_last_used": "0",
+            "date_modified": "13324992259680572",
+            "guid": "8fadbb9d-b00c-4104-8b64-05519dd8a87b",
+            "id": "47",
+            "name": "DDP2",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118152655770",
+               "date_last_used": "0",
+               "guid": "a4cabe50-986a-433a-89e9-f1ad6188a175",
+               "id": "60",
+               "name": "Quiz - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1-oZhT5kJtTi_DnfB5sIT5BadUiuzIb00"
+            }, {
+               "date_added": "13321118176804148",
+               "date_last_used": "0",
+               "guid": "92789d4b-a29a-49f8-a6f5-dc549be33460",
+               "id": "61",
+               "name": "Fun Quiz 3 Alin (23 April 2022) - RHKD & LSS",
+               "type": "url",
+               "url": "https://docs.google.com/forms/d/e/1FAIpQLSeG21A-oVZiAWgnr8fM_tHinNCBXAS10G4U--2Y_ty0bSqA9g/viewscore?viewscore=AE0zAgA05HOeNKw75rMPwFxI_R6H9rViOZ1qLf1ShCYkBmUFDZVNp7k-t0JlQ9FNAw"
+            }, {
+               "date_added": "13321118190505269",
+               "date_last_used": "0",
+               "guid": "ec7502d1-4f09-4792-8e0e-39288d2223cf",
+               "id": "62",
+               "name": "Pembahasan (Mahasiswa) - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/10OHo95pevSx6Bm5lzJGK_jesohP6jGRd"
+            }, {
+               "date_added": "13321118210957779",
+               "date_last_used": "0",
+               "guid": "a37189e4-959a-4f66-aa82-5e639648a722",
+               "id": "63",
+               "name": "Fun Quiz 2 Alin (25 Februari 2022) - Inverse Matriks dan Determinan",
+               "type": "url",
+               "url": "https://docs.google.com/forms/d/e/1FAIpQLSd-0iKpZluGvwoNfF0fKqoacvhaoLTLUIlOidn5rNWVXb3Fmw/viewscore?viewscore=AE0zAgB2dvC0EtxV8ElLT6f8D8cGLXub9qS_AflPiws43n8ZxpsY0FiR4vZ2q73GWw"
+            }, {
+               "date_added": "13321118225500751",
+               "date_last_used": "0",
+               "guid": "57958e8f-49c4-40f2-9e40-2a1451cb0dcd",
+               "id": "64",
+               "name": "Asistensi-1 - Google Slides",
+               "type": "url",
+               "url": "https://docs.google.com/presentation/d/1pQDkdQtM5u9yvS0pC1J73K7lipQMGnSvHHabuBlN52g/edit#slide=id.p"
+            } ],
+            "date_added": "13321118137141052",
+            "date_last_used": "0",
+            "date_modified": "13321118225500751",
+            "guid": "dd98b9a3-a804-41da-9825-b2d551fdc05c",
+            "id": "59",
+            "name": "Alin",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13308809820144457",
+               "date_last_used": "13321117925850655",
+               "guid": "b0685e58-b3a0-4591-87e6-74763d4d0e29",
+               "id": "66",
+               "name": "MASTER Univ (email ui) - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1K76E_XoiLixyu_6x3LxSH7veyYGFUZwP"
+            }, {
+               "date_added": "13321118306281718",
+               "date_last_used": "0",
+               "guid": "bd96ddbf-96f9-4084-8f10-2287bb185230",
+               "id": "67",
+               "name": "drive tugas - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1QhPA-Mk_OOdu7vPdyQTX5uz1u-b_AYP1"
+            }, {
+               "date_added": "13321118319827076",
+               "date_last_used": "0",
+               "guid": "2a260d33-e3da-4b33-9be0-49699dc8451f",
+               "id": "68",
+               "name": "Kyu's Kuliah Kit - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/0/folders/1vas6ZsPJaofl19Vu9Z_WmIZ_WaJZsCag"
+            } ],
+            "date_added": "13321118254954013",
+            "date_last_used": "0",
+            "date_modified": "13321118319827076",
+            "guid": "a2a17a3e-35d4-4a46-9846-36337d1fb833",
+            "id": "65",
+            "name": "Folder Kating",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118354495590",
+               "date_last_used": "0",
+               "guid": "7abf05b6-7220-4e3a-a31f-545378b41c3e",
+               "id": "70",
+               "name": "Matdis 2 - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1ULay_u52jUeG3tmRSdYRUqQM_5Z7XCBi"
+            }, {
+               "date_added": "13321118369685550",
+               "date_last_used": "0",
+               "guid": "f89321a1-259d-496f-a6c5-2a5330e7f2a5",
+               "id": "71",
+               "name": "Pembahasan Tutorial - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/12_yHggd0KfbwNTrFNVkkeBcT8lSvBeV5"
+            }, {
+               "date_added": "13321330082229629",
+               "date_last_used": "0",
+               "guid": "402a3498-cc45-4ef3-9d1f-4383fb16816c",
+               "id": "72",
+               "name": "PR 1.pdf",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/Downloads/PR%201.pdf"
+            }, {
+               "date_added": "13322061832825364",
+               "date_last_used": "0",
+               "guid": "803a771e-06d1-4527-aa76-f428106d305f",
+               "id": "73",
+               "name": "MD2-E - OneDrive",
+               "type": "url",
+               "url": "https://univindonesia-my.sharepoint.com/personal/pudyprima_office_ui_ac_id/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpudyprima%5Foffice%5Fui%5Fac%5Fid%2FDocuments%2F%5BPublic%5D%2FMD2%2FGenap%202022%2D2023%2FMD2%2DE&ga=1"
+            }, {
+               "date_added": "13326901635534923",
+               "date_last_used": "0",
+               "guid": "28c6c484-d590-4b82-ba2b-7814dd610409",
+               "id": "74",
+               "name": "Relations - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1Uow-43UmRZuqNotmmxeCP2g6u5ejYm2p"
+            }, {
+               "date_added": "13327554428450834",
+               "date_last_used": "0",
+               "guid": "6d132f42-e82f-44a6-989d-680d2ec1d708",
+               "id": "75",
+               "name": "BA3D5306-B638-43DB-8455-A21C8805DC4A.pdf",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/Videos/BA3D5306-B638-43DB-8455-A21C8805DC4A.pdf"
+            } ],
+            "date_added": "13321118335407664",
+            "date_last_used": "0",
+            "date_modified": "13327554428450834",
+            "guid": "bd56a615-c38a-40e1-8ea3-c1889c5555da",
+            "id": "69",
+            "name": "MD2",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118414296350",
+               "date_last_used": "0",
+               "guid": "28750a2d-14a2-4b96-9a03-4dfbe303fc62",
+               "id": "77",
+               "name": "TM1.docx",
+               "type": "url",
+               "url": "https://univindonesia-my.sharepoint.com/:w:/g/personal/muhammad_raihan05_office_ui_ac_id/EXPhcoJuTGdJsNKdwzAa8_MBZV0YtMg5BV0hMCwN87aRsw"
+            } ],
+            "date_added": "13321118340924031",
+            "date_last_used": "0",
+            "date_modified": "13321118414296350",
+            "guid": "4676990a-14eb-4e8d-b272-b4043727a9a4",
+            "id": "76",
+            "name": "DDAK",
+            "type": "folder"
+         }, {
+            "date_added": "13321801668822838",
+            "date_last_used": "0",
+            "guid": "6e0df055-0b8d-44e4-b970-a2d07272a1e9",
+            "id": "78",
+            "name": "Getting Started with a Java Project - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1LFRe4iRxjLmcOZrZ4q1qQPt6m-C7PIVTgpRYrKxDJkM/edit#heading=h.yv8zk2k1mqaq"
+         }, {
+            "date_added": "13321802885921098",
+            "date_last_used": "0",
+            "guid": "4cc46403-68d3-49b3-8f87-d2a840be48e0",
+            "id": "79",
+            "name": "assignments-22-23/assignment1 at master · dekdepe/assignments-22-23",
+            "type": "url",
+            "url": "https://github.com/dekdepe/assignments-22-23/tree/master/assignment1"
+         }, {
+            "date_added": "13321978421507999",
+            "date_last_used": "0",
+            "guid": "fa0a5c8f-2582-4c28-8f7c-6c85728f303d",
+            "id": "80",
+            "name": "Overview - OpenAI API",
+            "type": "url",
+            "url": "https://platform.openai.com/overview"
+         }, {
+            "date_added": "13324274256498175",
+            "date_last_used": "0",
+            "guid": "ec4d8c92-e226-4ddf-a624-7c9413d05983",
+            "id": "81",
+            "name": "Pekan 5.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Pekan%205.pdf"
+         }, {
+            "date_added": "13324340424311281",
+            "date_last_used": "0",
+            "guid": "f797a11a-fe89-4701-b544-0117e4113af6",
+            "id": "82",
+            "name": "Semester 2",
+            "type": "url",
+            "url": "https://univindonesia-my.sharepoint.com/personal/shirin_zarqaa_office_ui_ac_id/_layouts/15/Doc.aspx?sourcedoc={3ea9cff7-152d-48de-a576-54ade9980b61}&action=view&wd=target%28Matdis%202.one%7C870fe436-b61b-4387-b368-c9c5e6c61b41%2FTeknik%20Berhitung%20Lanjut%7Cb1ed9e44-409b-4900-b519-cc68c8807c48%2F%29&wdorigin=NavigationUrl"
+         }, {
+            "date_added": "13324927159260315",
+            "date_last_used": "0",
+            "guid": "f8c26fa3-852b-4550-a3e6-3094c433301e",
+            "id": "83",
+            "name": "Latihan Soal-Soal Tahun 21_22.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Latihan%20Soal-Soal%20Tahun%2021_22.pdf"
+         }, {
+            "date_added": "13324927192444616",
+            "date_last_used": "0",
+            "guid": "3dd9b154-3530-4666-8c18-71a8cb05ba36",
+            "id": "84",
+            "name": "Latihan Soal Pra-UTS.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Latihan%20Soal%20Pra-UTS.pdf"
+         }, {
+            "date_added": "13327769596028063",
+            "date_last_used": "0",
+            "guid": "3fabc9fc-c73c-4dab-83f2-0ea2174b0698",
+            "id": "85",
+            "name": "Bing AI - Search",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=HDRSC2"
+         }, {
+            "date_added": "13340970440463638",
+            "date_last_used": "0",
+            "guid": "3dba6d3b-931c-4a7c-9da2-82488e78877a",
+            "id": "86",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "::Data Structures and Algorithms",
+            "type": "url",
+            "url": "http://aren.cs.ui.ac.id/sda/"
+         }, {
+            "date_added": "13341281906932792",
+            "date_last_used": "0",
+            "guid": "6cc0b978-6513-4504-a33f-f8e8b53a80d4",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "variance",
+            "type": "url",
+            "url": "file:///E:/SEMESTER%203/MANPRO%20TI/MATERI/06%20-%20Project%20Time%20Management%20[Online%20Class].pdf"
+         }, {
+            "date_added": "13344484883230184",
+            "date_last_used": "0",
+            "guid": "3431562c-e8d1-41dc-9946-0c5cf4ffd958",
+            "id": "88",
+            "name": "Dashboard Universitas Indonesia",
+            "type": "url",
+            "url": "https://beranda.ui.ac.id/personal/profile/changepassword"
+         }, {
+            "date_added": "13347524368401125",
+            "date_last_used": "0",
+            "guid": "1854438d-f7f6-45b1-91ea-aa53e3f770a6",
+            "id": "9",
+            "name": "Lenovo Support",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13347524368400920",
+            "date_last_used": "0",
+            "guid": "b55e551d-0463-4042-a7d5-ea73dad2b065",
+            "id": "8",
+            "name": "Lenovo",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13347524368399275",
+            "date_last_used": "0",
+            "guid": "2f4a90a3-18cc-4e7f-9a9b-582eb1525287",
+            "id": "7",
+            "name": "McAfee",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13347524368062072",
+         "date_last_used": "0",
+         "date_modified": "13347525248672638",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13347524368062075",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13249461641050294",
+            "date_last_used": "0",
+            "guid": "cf7e9263-6882-499b-be1f-c1715f88a352",
+            "id": "15",
+            "name": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?wx_navbar_transparent=true&data_prefetch=true&titleHidden=1&pha=true&wh_pid=/lazada/megascenario/id/d11/11-teasing-paid&source=paid&selected_index=0&pha_url",
+            "type": "url",
+            "url": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?wx_navbar_transparent=true&data_prefetch=true&titleHidden=1&pha=true&wh_pid=/lazada/megascenario/id/d11/11-teasing-paid&source=paid&selected_index=0&pha_url=https%3A%2F%2Fg.alicdn.com%2Flzd-fe%2Flzd-pha%2F1.0.2%2Fid%2Fteasing2%2Fmanifest.json%3Fpha%3Dtrue&i_exlaz=e_vKH%252BkbRyDxTGip8qo24MCZxWHrQEPErDn5aamoCXMIfCXvTKdNAtBddiO91N9uVtCodwqLdIhD%252Brq1IplDPdakx5oE2el4BbD3WnASIas1Y%253D&hybrid=1&disableNav=YES&scm=1003.4.icms-zebra-101415972-5842695.OTHER_6037304296_6375476&prefetch_replace=1&trigger_item=3231114967&campaign_id=0&venture=id&sku_id=5635828073&wh_skucount=1&entrance=mktlp&exlaz=d_1:mm_150050845_51350205_2010350205::12:9236780524!94086527232!!!pla-294357559827!m!294357559827!5635828073!276672955&gclid=Cj0KCQiA7qP9BRCLARIsABDaZzg2On6j8UkO5rETcX569mY-F1oFYkeq5-9h6Z_Xtoijpef7Poj9vtUaAqObEALw_wcB"
+         }, {
+            "date_added": "13264333337922171",
+            "date_last_used": "0",
+            "guid": "ede90413-fa6f-45a5-a32c-300c3d83154a",
+            "id": "16",
+            "name": "TRY OUT NASIONAL (TONAS) ONLINE SPMB POLSTAT STIS 2021 - Pendaftaran",
+            "type": "url",
+            "url": "https://tonas.ukmbimbelstis.com/dashboard/pembayaran/total-pembayaran"
+         }, {
+            "date_added": "13264524825109915",
+            "date_last_used": "0",
+            "guid": "3a5c660d-6c83-4f40-9ccb-0ee5da57c97a",
+            "id": "17",
+            "name": "Login - IDCloudHost",
+            "type": "url",
+            "url": "https://my.idcloudhost.com/index.php?rp=/login"
+         }, {
+            "date_added": "13265058954615497",
+            "date_last_used": "0",
+            "guid": "4dcdfcaa-b27a-4ed7-97b8-e54794a21f5a",
+            "id": "18",
+            "name": "Bimbel Mezzanine",
+            "type": "url",
+            "url": "https://bimbelmezzanine.com/tryout-detail/pKid"
+         }, {
+            "date_added": "13265565196600185",
+            "date_last_used": "0",
+            "guid": "cee5d2a9-2d9a-432e-92cc-6fa136122018",
+            "id": "19",
+            "name": "kedinasan.id - Paket Soal Latihan & Try Out Nasional",
+            "type": "url",
+            "url": "https://bimbel.kedinasan.id/to-topic-new/1"
+         }, {
+            "date_added": "13265908324640849",
+            "date_last_used": "0",
+            "guid": "c1783e83-011b-4f2e-9733-99790b2ac8f6",
+            "id": "20",
+            "name": "BelajarBertahap",
+            "type": "url",
+            "url": "https://belajarbertahap.com/"
+         }, {
+            "date_added": "13265936319028047",
+            "date_last_used": "0",
+            "guid": "c9867910-9980-4369-afe7-05cae5a3e1f1",
+            "id": "21",
+            "name": "Home",
+            "type": "url",
+            "url": "https://belajarbertahap.com/homeapp"
+         }, {
+            "date_added": "13266233851440885",
+            "date_last_used": "0",
+            "guid": "eed60d44-3d82-4390-8b69-34e07b0dd9f6",
+            "id": "22",
+            "name": "SPMB POLITEKNIK STATISTIKA STIS - Login SPMB Polstat STIS",
+            "type": "url",
+            "url": "https://spmb.stis.ac.id/peserta/logindikdin.phtml"
+         }, {
+            "date_added": "13268216699278570",
+            "date_last_used": "0",
+            "guid": "1f4147bb-5e03-4903-9682-ccc4555d7f1a",
+            "id": "23",
+            "name": "Pengumuman SBMPTN LTMPT 2021",
+            "type": "url",
+            "url": "https://sbmptn.unsri.ac.id/"
+         }, {
+            "date_added": "13269567958782090",
+            "date_last_used": "0",
+            "guid": "5cb66505-f924-46df-9631-a56d48aae9db",
+            "id": "24",
+            "name": "[Calvin] Beasiswa Prestasi Akademik UTBK - Calvin Institute of Technology",
+            "type": "url",
+            "url": "https://apply.calvin.ac.id/utbk"
+         }, {
+            "date_added": "13274891007070783",
+            "date_last_used": "0",
+            "guid": "e56a24e3-d814-448e-9705-3e7e42e12f68",
+            "id": "25",
+            "name": "Sapa",
+            "type": "url",
+            "url": "http://sapa.cdc.unsri.info/login"
+         }, {
+            "date_added": "13275144228411167",
+            "date_last_used": "0",
+            "guid": "2f1ee27c-ef4c-4cf9-bc69-b17d4482eb3d",
+            "id": "26",
+            "name": "PPTMON - Free PowerPoint Templates and Google Slides Themes",
+            "type": "url",
+            "url": "https://pptmon.com/page/6/"
+         }, {
+            "date_added": "13275484240643401",
+            "date_last_used": "0",
+            "guid": "bd9f9fb9-5ae7-4ac7-aba7-c68060c6c261",
+            "id": "27",
+            "name": "SEMESTER 1",
+            "type": "url",
+            "url": "https://www.notion.so/6593e85b1ba4473ca7de0731a1b5694a?v=4ce8231e5ac74d619ac71872f5c420dc"
+         }, {
+            "date_added": "13277388782252895",
+            "date_last_used": "0",
+            "guid": "abf3c0eb-855b-49ed-865c-6b3a97cda9d7",
+            "id": "28",
+            "name": "Profil - Skilvul",
+            "type": "url",
+            "url": "https://skilvul.com/profile"
+         }, {
+            "date_added": "13277388991983805",
+            "date_last_used": "0",
+            "guid": "3690e251-ba52-4bc4-b3e0-8dd6ae31b9d9",
+            "id": "29",
+            "name": "Beasiswa - Skilvul",
+            "type": "url",
+            "url": "https://skilvul.com/programs"
+         }, {
+            "date_added": "13284215482389326",
+            "date_last_used": "0",
+            "guid": "b3bbe5ac-e76a-443c-8c2f-6d82ff0de5b9",
+            "id": "30",
+            "name": "Pencarian Status Pengajuan",
+            "type": "url",
+            "url": "https://pd.data.kemdikbud.go.id/vervalLulusan/pengajuan/status?email=marchelinaanjanisaputri23%40gmail.com"
+         }, {
+            "date_added": "13284229480238956",
+            "date_last_used": "0",
+            "guid": "3e57ca78-46a1-4ffa-9e03-7467bfbfc2cf",
+            "id": "31",
+            "name": "Riwayat Pembelian",
+            "type": "url",
+            "url": "http://www.pateron.id/siswa/riwayat-pembelian"
+         }, {
+            "date_added": "13305613945026617",
+            "date_last_used": "0",
+            "guid": "06925d90-e87f-4964-8b50-fea31e44b2b5",
+            "id": "32",
+            "name": "LOTTE Dream Together",
+            "type": "url",
+            "url": "https://lottedreamtogether.com/profile"
+         } ],
+         "date_added": "13347524368062077",
+         "date_last_used": "0",
+         "date_modified": "13305613945026617",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

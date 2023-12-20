@@ -1,0 +1,816 @@
+{
+   "checksum": "c82a35c229a41ed85901907971510167",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13298131315377250",
+               "date_last_used": "0",
+               "guid": "db765037-15b0-4259-9ff6-a853cead94f1",
+               "id": "34",
+               "name": "Introduction - Interactive Lesson - Python Principles",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://pythonprinciples.com/lessons/Introduction/"
+            }, {
+               "date_added": "13297881960334099",
+               "date_last_used": "0",
+               "guid": "ccf381e0-2151-41fd-8f5c-7bd863835601",
+               "id": "35",
+               "name": "Python Lanjutan - Function - Function - Basic Structure - Skilvul",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.skilvul.com/courses/python-lanjutan/lessons/function/topics/function-basic-structure"
+            }, {
+               "date_added": "13297414676553691",
+               "date_last_used": "0",
+               "guid": "76d7e50a-7367-4aa4-a363-e101c16506df",
+               "id": "36",
+               "name": "DQLab | Daftar Kelas",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://academy.dqlab.id/main/module"
+            }, {
+               "date_added": "13297413985111943",
+               "date_last_used": "0",
+               "guid": "95e3688a-bdb7-402e-9f7b-0262319c07b8",
+               "id": "37",
+               "name": "Introduction to Python",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.w3schools.com/python/python_intro.asp"
+            }, {
+               "date_added": "13302712256049914",
+               "date_last_used": "0",
+               "guid": "f09c5d7f-8331-45b3-82d7-69b2a2bd8473",
+               "id": "38",
+               "name": "Pengenalan Python | Memulai Pemrograman Dengan Python | Dicoding Indonesia",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.dicoding.com/academies/86/tutorials/4733?from=15983"
+            }, {
+               "date_added": "13303290445647560",
+               "date_last_used": "0",
+               "guid": "c0216b16-aa66-479d-9811-3d67a42655a5",
+               "id": "39",
+               "name": "Learn to Code — For Free — Coding Courses for Busy People",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/"
+            }, {
+               "date_added": "13303384216425638",
+               "date_last_used": "0",
+               "guid": "b8445905-a1f8-4aa5-8052-170ce94aac00",
+               "id": "40",
+               "name": "greenduckzz on Scratch",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://scratch.mit.edu/users/greenduckzz/"
+            }, {
+               "date_added": "13303384361214185",
+               "date_last_used": "0",
+               "guid": "a0b08867-9645-42dd-b478-7f507d56bd5c",
+               "id": "41",
+               "name": "Scientific Computing with Python Certification | freeCodeCamp.org",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody"
+            }, {
+               "date_added": "13305442269758506",
+               "date_last_used": "0",
+               "guid": "e5cd57e8-ba60-4e0e-9134-d854364e6def",
+               "id": "42",
+               "name": "Python untuk Semua Orang | Coursera",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.coursera.org/specializations/python"
+            }, {
+               "date_added": "13305442291534555",
+               "date_last_used": "0",
+               "guid": "69715c05-e98d-4e25-a426-5605082e7976",
+               "id": "43",
+               "name": "",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai"
+            }, {
+               "date_added": "13305821057395249",
+               "date_last_used": "0",
+               "guid": "f19f1362-05ad-448e-aefc-06e3a748bb30",
+               "id": "44",
+               "name": "Python for Everybody - Conditional Execution | Learn | freeCodeCamp.org",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/conditional-execution"
+            }, {
+               "date_added": "13306684053100792",
+               "date_last_used": "0",
+               "guid": "352c938b-8d70-442e-91a3-3809a5e9843b",
+               "id": "45",
+               "name": "Toko Buku Andaliman Books | Toko Buku Andaliman Books",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.andalimanbooks.com/download-bonus-toefl-breaker-28"
+            }, {
+               "date_added": "13306334065703595",
+               "date_last_used": "0",
+               "guid": "9156f2c9-aaf4-4c37-a93e-60a79aff0a08",
+               "id": "46",
+               "name": "CodingBat Java",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://codingbat.com/java?message=Account+created"
+            } ],
+            "date_added": "13309255404267495",
+            "date_last_used": "0",
+            "date_modified": "13309255404267495",
+            "guid": "148536ff-7aa7-4c4e-9115-45bc45eab799",
+            "id": "33",
+            "name": "belajar programmingg",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118007604588",
+               "date_last_used": "0",
+               "guid": "9b1d2980-9df4-46bd-964e-3a534929bc58",
+               "id": "48",
+               "name": "Think Java: How to Think Like a Computer Scientist",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://greenteapress.com/thinkjava7/thinkjava2.pdf"
+            }, {
+               "date_added": "13321118052587690",
+               "date_last_used": "0",
+               "guid": "ea186637-0f4a-48e7-b00c-877bae3c4310",
+               "id": "49",
+               "name": "Learning Hub - Replit",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://replit.com/learn/100-days-of-python/hub"
+            }, {
+               "date_added": "13321118068593757",
+               "date_last_used": "0",
+               "guid": "a5615af6-5b93-4466-b681-8af0bd9ec11d",
+               "id": "50",
+               "name": "latihan-pemrograman-ddp2 - Replit",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://replit.com/team/latihan-pemrograman-ddp2"
+            }, {
+               "date_added": "13321118094854145",
+               "date_last_used": "13327224666629877",
+               "guid": "75793ceb-ad0e-4bcb-b130-a452002d8875",
+               "id": "51",
+               "name": "marchelinaanjani2/lab0",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/marchelinaanjani2/lab0"
+            }, {
+               "date_added": "13321118113098003",
+               "date_last_used": "0",
+               "guid": "79b407bb-4cdd-456c-8d77-bcdf89a75363",
+               "id": "52",
+               "name": "Solve Java | HackerRank",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.hackerrank.com/domains/java"
+            }, {
+               "date_added": "13321329642726182",
+               "date_last_used": "0",
+               "guid": "11c487ca-7aa3-4d69-a8d9-475b958b667a",
+               "id": "53",
+               "name": "TP 1 - Methods - Google Docs",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1j2jEBpS9S3zhaLtABXcs9Q9nhzKS2WEMoIGZuGTAPrM/edit"
+            }, {
+               "date_added": "13321981940754093",
+               "date_last_used": "0",
+               "guid": "490f02b9-8597-4f24-aefe-bde0f211b8d2",
+               "id": "54",
+               "name": "Playground - OpenAI API",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://platform.openai.com/playground"
+            }, {
+               "date_added": "13322044238564354",
+               "date_last_used": "13322487495157995",
+               "guid": "65b0e507-f643-4477-92bd-8da6902940ef",
+               "id": "55",
+               "name": "New chat",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://chat.openai.com/chat"
+            }, {
+               "date_added": "13322066162161168",
+               "date_last_used": "0",
+               "guid": "0ed21a6c-734f-47c2-9325-57908b3a911b",
+               "id": "56",
+               "name": "Getting Started with a Java Project - Google Docs",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1LFRe4iRxjLmcOZrZ4q1qQPt6m-C7PIVTgpRYrKxDJkM/edit#heading=h.fy60kcxym2pi"
+            }, {
+               "date_added": "13324205123970350",
+               "date_last_used": "0",
+               "guid": "7a7f4271-6ba2-4bbd-84aa-578c8bbe9293",
+               "id": "57",
+               "name": "Asistensi UTS.pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Asistensi%20UTS.pdf"
+            }, {
+               "date_added": "13324992259680572",
+               "date_last_used": "0",
+               "guid": "9aadd4ab-7914-43f0-a0ec-1f9d1d75fc09",
+               "id": "58",
+               "name": "Soal UTS DDP2 Sem Genap 22_23 1.pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Soal%20UTS%20DDP2%20Sem%20Genap%2022_23%201.pdf"
+            } ],
+            "date_added": "13321117985633266",
+            "date_last_used": "0",
+            "date_modified": "13324992259680572",
+            "guid": "8fadbb9d-b00c-4104-8b64-05519dd8a87b",
+            "id": "47",
+            "name": "DDP2",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118152655770",
+               "date_last_used": "0",
+               "guid": "a4cabe50-986a-433a-89e9-f1ad6188a175",
+               "id": "60",
+               "name": "Quiz - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1-oZhT5kJtTi_DnfB5sIT5BadUiuzIb00"
+            }, {
+               "date_added": "13321118176804148",
+               "date_last_used": "0",
+               "guid": "92789d4b-a29a-49f8-a6f5-dc549be33460",
+               "id": "61",
+               "name": "Fun Quiz 3 Alin (23 April 2022) - RHKD & LSS",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.google.com/forms/d/e/1FAIpQLSeG21A-oVZiAWgnr8fM_tHinNCBXAS10G4U--2Y_ty0bSqA9g/viewscore?viewscore=AE0zAgA05HOeNKw75rMPwFxI_R6H9rViOZ1qLf1ShCYkBmUFDZVNp7k-t0JlQ9FNAw"
+            }, {
+               "date_added": "13321118190505269",
+               "date_last_used": "0",
+               "guid": "ec7502d1-4f09-4792-8e0e-39288d2223cf",
+               "id": "62",
+               "name": "Pembahasan (Mahasiswa) - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/10OHo95pevSx6Bm5lzJGK_jesohP6jGRd"
+            }, {
+               "date_added": "13321118210957779",
+               "date_last_used": "0",
+               "guid": "a37189e4-959a-4f66-aa82-5e639648a722",
+               "id": "63",
+               "name": "Fun Quiz 2 Alin (25 Februari 2022) - Inverse Matriks dan Determinan",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.google.com/forms/d/e/1FAIpQLSd-0iKpZluGvwoNfF0fKqoacvhaoLTLUIlOidn5rNWVXb3Fmw/viewscore?viewscore=AE0zAgB2dvC0EtxV8ElLT6f8D8cGLXub9qS_AflPiws43n8ZxpsY0FiR4vZ2q73GWw"
+            }, {
+               "date_added": "13321118225500751",
+               "date_last_used": "0",
+               "guid": "57958e8f-49c4-40f2-9e40-2a1451cb0dcd",
+               "id": "64",
+               "name": "Asistensi-1 - Google Slides",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.google.com/presentation/d/1pQDkdQtM5u9yvS0pC1J73K7lipQMGnSvHHabuBlN52g/edit#slide=id.p"
+            } ],
+            "date_added": "13321118137141052",
+            "date_last_used": "0",
+            "date_modified": "13321118225500751",
+            "guid": "dd98b9a3-a804-41da-9825-b2d551fdc05c",
+            "id": "59",
+            "name": "Alin",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13308809820144457",
+               "date_last_used": "13321117925850655",
+               "guid": "b0685e58-b3a0-4591-87e6-74763d4d0e29",
+               "id": "66",
+               "name": "MASTER Univ (email ui) - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1K76E_XoiLixyu_6x3LxSH7veyYGFUZwP"
+            }, {
+               "date_added": "13321118306281718",
+               "date_last_used": "0",
+               "guid": "bd96ddbf-96f9-4084-8f10-2287bb185230",
+               "id": "67",
+               "name": "drive tugas - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1QhPA-Mk_OOdu7vPdyQTX5uz1u-b_AYP1"
+            }, {
+               "date_added": "13321118319827076",
+               "date_last_used": "0",
+               "guid": "2a260d33-e3da-4b33-9be0-49699dc8451f",
+               "id": "68",
+               "name": "Kyu's Kuliah Kit - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/0/folders/1vas6ZsPJaofl19Vu9Z_WmIZ_WaJZsCag"
+            } ],
+            "date_added": "13321118254954013",
+            "date_last_used": "0",
+            "date_modified": "13321118319827076",
+            "guid": "a2a17a3e-35d4-4a46-9846-36337d1fb833",
+            "id": "65",
+            "name": "Folder Kating",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118354495590",
+               "date_last_used": "0",
+               "guid": "7abf05b6-7220-4e3a-a31f-545378b41c3e",
+               "id": "70",
+               "name": "Matdis 2 - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1ULay_u52jUeG3tmRSdYRUqQM_5Z7XCBi"
+            }, {
+               "date_added": "13321118369685550",
+               "date_last_used": "0",
+               "guid": "f89321a1-259d-496f-a6c5-2a5330e7f2a5",
+               "id": "71",
+               "name": "Pembahasan Tutorial - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/12_yHggd0KfbwNTrFNVkkeBcT8lSvBeV5"
+            }, {
+               "date_added": "13321330082229629",
+               "date_last_used": "0",
+               "guid": "402a3498-cc45-4ef3-9d1f-4383fb16816c",
+               "id": "72",
+               "name": "PR 1.pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/Downloads/PR%201.pdf"
+            }, {
+               "date_added": "13322061832825364",
+               "date_last_used": "0",
+               "guid": "803a771e-06d1-4527-aa76-f428106d305f",
+               "id": "73",
+               "name": "MD2-E - OneDrive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://univindonesia-my.sharepoint.com/personal/pudyprima_office_ui_ac_id/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpudyprima%5Foffice%5Fui%5Fac%5Fid%2FDocuments%2F%5BPublic%5D%2FMD2%2FGenap%202022%2D2023%2FMD2%2DE&ga=1"
+            }, {
+               "date_added": "13326901635534923",
+               "date_last_used": "0",
+               "guid": "28c6c484-d590-4b82-ba2b-7814dd610409",
+               "id": "74",
+               "name": "Relations - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1Uow-43UmRZuqNotmmxeCP2g6u5ejYm2p"
+            }, {
+               "date_added": "13327554428450834",
+               "date_last_used": "0",
+               "guid": "6d132f42-e82f-44a6-989d-680d2ec1d708",
+               "id": "75",
+               "name": "BA3D5306-B638-43DB-8455-A21C8805DC4A.pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/Lenovo/Videos/BA3D5306-B638-43DB-8455-A21C8805DC4A.pdf"
+            } ],
+            "date_added": "13321118335407664",
+            "date_last_used": "0",
+            "date_modified": "13327554428450834",
+            "guid": "bd56a615-c38a-40e1-8ea3-c1889c5555da",
+            "id": "69",
+            "name": "MD2",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13321118414296350",
+               "date_last_used": "0",
+               "guid": "28750a2d-14a2-4b96-9a03-4dfbe303fc62",
+               "id": "77",
+               "name": "TM1.docx",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://univindonesia-my.sharepoint.com/:w:/g/personal/muhammad_raihan05_office_ui_ac_id/EXPhcoJuTGdJsNKdwzAa8_MBZV0YtMg5BV0hMCwN87aRsw"
+            } ],
+            "date_added": "13321118340924031",
+            "date_last_used": "0",
+            "date_modified": "13321118414296350",
+            "guid": "4676990a-14eb-4e8d-b272-b4043727a9a4",
+            "id": "76",
+            "name": "DDAK",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13321801668822838",
+            "date_last_used": "0",
+            "guid": "6e0df055-0b8d-44e4-b970-a2d07272a1e9",
+            "id": "78",
+            "name": "Getting Started with a Java Project - Google Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1LFRe4iRxjLmcOZrZ4q1qQPt6m-C7PIVTgpRYrKxDJkM/edit#heading=h.yv8zk2k1mqaq"
+         }, {
+            "date_added": "13321802885921098",
+            "date_last_used": "0",
+            "guid": "4cc46403-68d3-49b3-8f87-d2a840be48e0",
+            "id": "79",
+            "name": "assignments-22-23/assignment1 at master · dekdepe/assignments-22-23",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/dekdepe/assignments-22-23/tree/master/assignment1"
+         }, {
+            "date_added": "13321978421507999",
+            "date_last_used": "0",
+            "guid": "fa0a5c8f-2582-4c28-8f7c-6c85728f303d",
+            "id": "80",
+            "name": "Overview - OpenAI API",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://platform.openai.com/overview"
+         }, {
+            "date_added": "13324274256498175",
+            "date_last_used": "0",
+            "guid": "ec4d8c92-e226-4ddf-a624-7c9413d05983",
+            "id": "81",
+            "name": "Pekan 5.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Pekan%205.pdf"
+         }, {
+            "date_added": "13324340424311281",
+            "date_last_used": "0",
+            "guid": "f797a11a-fe89-4701-b544-0117e4113af6",
+            "id": "82",
+            "name": "Semester 2",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://univindonesia-my.sharepoint.com/personal/shirin_zarqaa_office_ui_ac_id/_layouts/15/Doc.aspx?sourcedoc={3ea9cff7-152d-48de-a576-54ade9980b61}&action=view&wd=target%28Matdis%202.one%7C870fe436-b61b-4387-b368-c9c5e6c61b41%2FTeknik%20Berhitung%20Lanjut%7Cb1ed9e44-409b-4900-b519-cc68c8807c48%2F%29&wdorigin=NavigationUrl"
+         }, {
+            "date_added": "13324927159260315",
+            "date_last_used": "0",
+            "guid": "f8c26fa3-852b-4550-a3e6-3094c433301e",
+            "id": "83",
+            "name": "Latihan Soal-Soal Tahun 21_22.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Latihan%20Soal-Soal%20Tahun%2021_22.pdf"
+         }, {
+            "date_added": "13324927192444616",
+            "date_last_used": "0",
+            "guid": "3dd9b154-3530-4666-8c18-71a8cb05ba36",
+            "id": "84",
+            "name": "Latihan Soal Pra-UTS.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/Lenovo/OneDrive/Documents/Latihan%20Soal%20Pra-UTS.pdf"
+         }, {
+            "date_added": "13327769596028063",
+            "date_last_used": "0",
+            "guid": "3fabc9fc-c73c-4dab-83f2-0ea2174b0698",
+            "id": "85",
+            "name": "Bing AI - Search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=HDRSC2"
+         }, {
+            "date_added": "13340970440463638",
+            "date_last_used": "0",
+            "guid": "3dba6d3b-931c-4a7c-9da2-82488e78877a",
+            "id": "86",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "::Data Structures and Algorithms",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://aren.cs.ui.ac.id/sda/"
+         }, {
+            "date_added": "13341281906932792",
+            "date_last_used": "0",
+            "guid": "6cc0b978-6513-4504-a33f-f8e8b53a80d4",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "variance",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///E:/SEMESTER%203/MANPRO%20TI/MATERI/06%20-%20Project%20Time%20Management%20[Online%20Class].pdf"
+         }, {
+            "date_added": "13344484883230184",
+            "date_last_used": "0",
+            "guid": "3431562c-e8d1-41dc-9946-0c5cf4ffd958",
+            "id": "88",
+            "name": "Dashboard Universitas Indonesia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://beranda.ui.ac.id/personal/profile/changepassword"
+         }, {
+            "date_added": "13347524368401125",
+            "date_last_used": "0",
+            "guid": "1854438d-f7f6-45b1-91ea-aa53e3f770a6",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13347524368400920",
+            "date_last_used": "0",
+            "guid": "b55e551d-0463-4042-a7d5-ea73dad2b065",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13347524368399275",
+            "date_last_used": "0",
+            "guid": "2f4a90a3-18cc-4e7f-9a9b-582eb1525287",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13347524368062072",
+         "date_last_used": "0",
+         "date_modified": "13347525248672638",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13347524368062075",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13249461641050294",
+            "date_last_used": "0",
+            "guid": "cf7e9263-6882-499b-be1f-c1715f88a352",
+            "id": "15",
+            "name": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?wx_navbar_transparent=true&data_prefetch=true&titleHidden=1&pha=true&wh_pid=/lazada/megascenario/id/d11/11-teasing-paid&source=paid&selected_index=0&pha_url",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?wx_navbar_transparent=true&data_prefetch=true&titleHidden=1&pha=true&wh_pid=/lazada/megascenario/id/d11/11-teasing-paid&source=paid&selected_index=0&pha_url=https%3A%2F%2Fg.alicdn.com%2Flzd-fe%2Flzd-pha%2F1.0.2%2Fid%2Fteasing2%2Fmanifest.json%3Fpha%3Dtrue&i_exlaz=e_vKH%252BkbRyDxTGip8qo24MCZxWHrQEPErDn5aamoCXMIfCXvTKdNAtBddiO91N9uVtCodwqLdIhD%252Brq1IplDPdakx5oE2el4BbD3WnASIas1Y%253D&hybrid=1&disableNav=YES&scm=1003.4.icms-zebra-101415972-5842695.OTHER_6037304296_6375476&prefetch_replace=1&trigger_item=3231114967&campaign_id=0&venture=id&sku_id=5635828073&wh_skucount=1&entrance=mktlp&exlaz=d_1:mm_150050845_51350205_2010350205::12:9236780524!94086527232!!!pla-294357559827!m!294357559827!5635828073!276672955&gclid=Cj0KCQiA7qP9BRCLARIsABDaZzg2On6j8UkO5rETcX569mY-F1oFYkeq5-9h6Z_Xtoijpef7Poj9vtUaAqObEALw_wcB"
+         }, {
+            "date_added": "13264333337922171",
+            "date_last_used": "0",
+            "guid": "ede90413-fa6f-45a5-a32c-300c3d83154a",
+            "id": "16",
+            "name": "TRY OUT NASIONAL (TONAS) ONLINE SPMB POLSTAT STIS 2021 - Pendaftaran",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tonas.ukmbimbelstis.com/dashboard/pembayaran/total-pembayaran"
+         }, {
+            "date_added": "13264524825109915",
+            "date_last_used": "0",
+            "guid": "3a5c660d-6c83-4f40-9ccb-0ee5da57c97a",
+            "id": "17",
+            "name": "Login - IDCloudHost",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://my.idcloudhost.com/index.php?rp=/login"
+         }, {
+            "date_added": "13265058954615497",
+            "date_last_used": "0",
+            "guid": "4dcdfcaa-b27a-4ed7-97b8-e54794a21f5a",
+            "id": "18",
+            "name": "Bimbel Mezzanine",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bimbelmezzanine.com/tryout-detail/pKid"
+         }, {
+            "date_added": "13265565196600185",
+            "date_last_used": "0",
+            "guid": "cee5d2a9-2d9a-432e-92cc-6fa136122018",
+            "id": "19",
+            "name": "kedinasan.id - Paket Soal Latihan & Try Out Nasional",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bimbel.kedinasan.id/to-topic-new/1"
+         }, {
+            "date_added": "13265908324640849",
+            "date_last_used": "0",
+            "guid": "c1783e83-011b-4f2e-9733-99790b2ac8f6",
+            "id": "20",
+            "name": "BelajarBertahap",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://belajarbertahap.com/"
+         }, {
+            "date_added": "13265936319028047",
+            "date_last_used": "0",
+            "guid": "c9867910-9980-4369-afe7-05cae5a3e1f1",
+            "id": "21",
+            "name": "Home",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://belajarbertahap.com/homeapp"
+         }, {
+            "date_added": "13266233851440885",
+            "date_last_used": "0",
+            "guid": "eed60d44-3d82-4390-8b69-34e07b0dd9f6",
+            "id": "22",
+            "name": "SPMB POLITEKNIK STATISTIKA STIS - Login SPMB Polstat STIS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://spmb.stis.ac.id/peserta/logindikdin.phtml"
+         }, {
+            "date_added": "13268216699278570",
+            "date_last_used": "0",
+            "guid": "1f4147bb-5e03-4903-9682-ccc4555d7f1a",
+            "id": "23",
+            "name": "Pengumuman SBMPTN LTMPT 2021",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sbmptn.unsri.ac.id/"
+         }, {
+            "date_added": "13269567958782090",
+            "date_last_used": "0",
+            "guid": "5cb66505-f924-46df-9631-a56d48aae9db",
+            "id": "24",
+            "name": "[Calvin] Beasiswa Prestasi Akademik UTBK - Calvin Institute of Technology",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://apply.calvin.ac.id/utbk"
+         }, {
+            "date_added": "13274891007070783",
+            "date_last_used": "0",
+            "guid": "e56a24e3-d814-448e-9705-3e7e42e12f68",
+            "id": "25",
+            "name": "Sapa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://sapa.cdc.unsri.info/login"
+         }, {
+            "date_added": "13275144228411167",
+            "date_last_used": "0",
+            "guid": "2f1ee27c-ef4c-4cf9-bc69-b17d4482eb3d",
+            "id": "26",
+            "name": "PPTMON - Free PowerPoint Templates and Google Slides Themes",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pptmon.com/page/6/"
+         }, {
+            "date_added": "13275484240643401",
+            "date_last_used": "0",
+            "guid": "bd9f9fb9-5ae7-4ac7-aba7-c68060c6c261",
+            "id": "27",
+            "name": "SEMESTER 1",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.notion.so/6593e85b1ba4473ca7de0731a1b5694a?v=4ce8231e5ac74d619ac71872f5c420dc"
+         }, {
+            "date_added": "13277388782252895",
+            "date_last_used": "0",
+            "guid": "abf3c0eb-855b-49ed-865c-6b3a97cda9d7",
+            "id": "28",
+            "name": "Profil - Skilvul",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://skilvul.com/profile"
+         }, {
+            "date_added": "13277388991983805",
+            "date_last_used": "0",
+            "guid": "3690e251-ba52-4bc4-b3e0-8dd6ae31b9d9",
+            "id": "29",
+            "name": "Beasiswa - Skilvul",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://skilvul.com/programs"
+         }, {
+            "date_added": "13284215482389326",
+            "date_last_used": "0",
+            "guid": "b3bbe5ac-e76a-443c-8c2f-6d82ff0de5b9",
+            "id": "30",
+            "name": "Pencarian Status Pengajuan",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pd.data.kemdikbud.go.id/vervalLulusan/pengajuan/status?email=marchelinaanjanisaputri23%40gmail.com"
+         }, {
+            "date_added": "13284229480238956",
+            "date_last_used": "0",
+            "guid": "3e57ca78-46a1-4ffa-9e03-7467bfbfc2cf",
+            "id": "31",
+            "name": "Riwayat Pembelian",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.pateron.id/siswa/riwayat-pembelian"
+         }, {
+            "date_added": "13305613945026617",
+            "date_last_used": "0",
+            "guid": "06925d90-e87f-4964-8b50-fea31e44b2b5",
+            "id": "32",
+            "name": "LOTTE Dream Together",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lottedreamtogether.com/profile"
+         } ],
+         "date_added": "13347524368062077",
+         "date_last_used": "0",
+         "date_modified": "13305613945026617",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCMvPxIWMAQAAEgAgASoYcEFseXRhbDZZbElhVzJLNmlXQXRaQT09oAYMEqgBCBYSowEKHFpRdEpHU0NrZExqVmthSzJiQzhjQmRXR3VERT0SJGVlZDYwZDQ0LTNkODItNDM5MC04YjY5LTM0ZTA3YjBkZDlmNhgAIAAoADCjlOrluTA40ZXq5bkwQNGV6uW5MEocODRYQkRNeG1lRldoMXF6R3lDS2RZM2lLTjV3PVofIh39VTZueHovcHBGVUpRTzdtZXltMDRCd3h5ZEZRPWWq7X8UEqkBCFQSpAEKHG9HTll6L29YY21GdGhLekZOUmt2cGtGRnY3MD0SJDNkZDliMTU0LTM1MzAtNDY2Ni04YzE4LTcxYThjYjA1YmEzNhgAIAAoADDA4NuW9DA4m+HblvQwQJvh25b0MEocTllocFFUU2hQNEVpTlB3MGl0by8rYm5OSERJPVogIh7/9jljZWx4enlIUE0rREUzMWRzWW1LUEcyM3FkYz1ld3BsoxKoAQgzEqMBChwvTjRQL0xnc1BFZGZnWWtXWnlDMzRVdjg2Tmc9EiQ3NTc5M2NlYi1hZDBlLTRiY2ItYjEzMC1hNDUyMDAyZDg4NzUYACAAKAAwkufZ9bExOJD2sv7lMECQ9rL+5TBKHC9OMlA5ZEp6Sys4LzVITlFiYzFMMWw2dGFHST1aHyId7FJMVW1BNVIzVEFYcmdqTWovTnlqSktYdHJKOD1l1Ezo0BKoAQgVEqMBChxudzMrTGlYSkpvekUxcW1lSzlPTUppSFc0blE9EiRjOTg2NzkxMC05OTgwLTQzNjktYWZlNy0wNWNhZTVhM2UxZjEYACAAKAAwo5Tq5bkwOOSU6uW5MEDklOrluTBKHGRMS0RiK1FEYnFXcmx5aytOVUFJWWJWYmhsYz1aHyId+1F4bG9GY3NBbHJtdEptZTZoYjJsRnFVYXZ3cz1lAAAAABKpAQgaEqQBChx1YVRYYnlSelJYK05LWitKMzBXV242QllRWWM9EiQyZjFlZTI3Yy1lZjRjLTRjZjktYmM2OS1iMTdkNDQ4MmViM2QYACAAKAAwud3p5bkwOLTj6eW5MEC04+nluTBKHGVpM0FLbTgrNVNwcEU4S3lNZXZQRXlwZU56UT1aICIe/9xoM200VVJuMHhBLzV3N0NEcWRnMUkwYTc1akk9ZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMzE2YmJiY2QtYTk4OC01OThjLWEzNmQtYTFlYzMwZWU0MTQ1GAAgACgAMPyKoe6wMDi35dX1pTBAt+XV9aUwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgrEqMBChwvZ3FJc1plMW5KaFE0eC9wamZRaG5vWlBSWGs9EiQ2OTcxNWMwNS1lOThkLTRlMjUtYTQyNi01NjA1MDgyZTc5NzYYACAAKAAwud3p5bkwOLfi6eW5MEC34unluTBKHFNDbndHMy9sSXFra0w3M2ZFQzI5TGtmM243OD1aHyId/3VNY0g2N1YzOGg2MUxvL2JJTEpRZkJpa1BXUT1lJpu8ABKoAQg0EqMBChxpMlgrcmh2ek9ZTHJuM09UaHVPNFVhWnJuZE09EiQ3OWI0MDdiYi00Y2RkLTQ1NmMtOGQ3Ny1iY2RmODlhNzUzNjMYACAAKAAwiYS0/uUwOK6EtP7lMECuhLT+5TBKHE9yWXB6dW96RFdNS05OZ2M4bndTZlNCQWlOcz1aHyId9ndGU3VWa3BjNnROeGpEQmRJQnZLWnFHQS9Jdz1lLQH3wBKoAQgYEqMBChwwSXlkKzNCbXA4UEhQTjM2T0x5RUdvTkNubjQ9EiQ1Y2I2NjUwNS1mOTI0LTQ2ZGYtOTYzMS1hNTZkNDhhYWU5ZGIYACAAKAAwud3p5bkwOLDf6eW5MECw3+nluTBKHE1RRkpsc1p0NTdHcjZ3aklIMTdRTWdSMzBsWT1aHyId/3JpaVRjSmEvN1VWLzhXTVNuY2Z2bWcxcEN6dz1lJ2j8ARKpAQhYEqQBChw3eDMrM2t3M3Z5cEttbnlaSkgxM3d3Zjd5a2M9EiQzNDMxNTYyYy1lOGQxLTQxZGMtOTk0Ni0wYzVjZjRmZmQ5NTgYACACKAIwxZ+TrsgxOMLDxoS9MUDBgpOuyDFKHGdDT2tCSXRJNzlKbFdPNms4bUprQlBYQU5oRT1aICIe//9uaUJEUUlIWVhWWWJrWndXbVpuT081K1NVVlU9ZZDbcmYSqAEILBKjAQocMGQrMGVxbU8zK3JkVWNOc1d0a0duQlZxOENJPRIkZjE5ZjEzNjItMDVhZC00NDhlLWFlZmMtMDZlM2E3NDhiYjMwGAAgACgAMLnd6eW5MDjW4unluTBA1uLp5bkwShw3M0lwVTZMRWlWVEVZWDJkbXRmekxESGhrejg9Wh8iHf95QmFZK0d0SWF5R0QvaE82Vkxrbld5cjJjbVU9ZXeJIu0SqQEIGRKkAQoccmNaeTNyUStnMzJpTHZvdlpZWWtHWUwyMzdVPRIkZTU2YTI0ZTMtZDgxNC00NDhlLTk3MDUtM2U3ZTQyZTEyZjY4GAAgACgAMLnd6eW5MDjT4+nluTBA0+Pp5bkwShxnNXpMcHVua0hOR0xUVGlDcGJEKzdCbkFkbE09WiAiHv+5VUJTZzV2amNIeWZFN0Q1NzFJVGdzWGwwdnFFPWX6q+QIEqkBCFMSpAEKHERKdDBoQktUZkYzbjBZSDZVZjJKdkx4MHZ5MD0SJGY4YzI2ZmEzLTg1MmItNDU1MC1hM2U2LTMwOTRjNDMzMzAxZRgAIAAoADD13NmW9DA4yd3ZlvQwQMnd2Zb0MEocMDFkVzFaYmpIRkVkbmE1WlBObXd4MkI0bUpJPVogIh7/7VcwYnhlWnZzLzBpcjdDOE9Za3JwdEFEeWZIRT1ld3BsoxKoAQgREqMBChxnai9XWGMvYnJQNjlYVE80WDFlMEVQdGMzam89EiQzYTVjNjYwZC02YzgzLTRmNDAtOWNjYi0wZWU1ZGE1N2M5N2EYACAAKAAwo5Tq5bkwOIOV6uW5MECDlerluTBKHHVrMUhjVFBvTUdKenZlYUVocDZKckwvN0ZzST1aHyIduUNrbXI4dncxUys2UlNmcmN6Wkg2Z3VYU0haaz1lt0waABKpAQgbEqQBChxLaEtYU1o4Zzh3T2prUnJwU0o0Q3ZCOWhkUGc9EiRiZDlmOWZiOS01YWU3LTRhYzctYWJhNy1jNjgwNjBjNmMyNjEYACAAKAAw3f/p5bkwOOCA6uW5MEDggOrluTBKHGpEVFp6ek1jV3ZaWUh5eVIrTWdjQ0JRQWMyaz1aICIe/+5sMVNybmZ2Z0V1MzJWMVBWbXNRczFqK243R3M9ZcK5RTsSqQEIHBKkAQocc1BqZm95bVJxYTkxYUE4S1ZOT0haZmlQU0pBPRIkYWJmM2MwZWItODU1Yi00OWVkLTg2NWMtNmIzYTk3Y2RhOWQ3GAAgACgAMKOU6uW5MDiylerluTBAspXq5bkwShxOMEhMN01BcmpuRDBVc1JhZzJXYldMWVZvNlE9WiAiHv/3M0tHMWQ5MTIwam9RaC9nODRhSUZPalp4M1NnPWWEMKXTEqcBCBASogEKHHFUSEZqMzZRbTRqaEVkT0xZQm5uYktYU3VZOD0SJGVkZTkwNDEzLWZhNmYtNDVhNS1hMzJjLTMwMGMzZDgzMTU0YRgAIAAoADC53enluTA4hePp5bkwQIXj6eW5MEocWHFoZU14U3l2cjBkOWo2dDFERUpmaXNheUVFPVoeIhxyTXpSeEUwTzhkVGFURGlQS2cvKzRPbGtRdkk9ZQAAAAASpwEIQhKiAQocbTY0cGF5K3cxenlNTUYvTHBCbGlMZnhmcFpvPRIkYjA2ODVlNTgtYjNhMC00NTkxLTg3ZTYtNzQ3NjNkNGQwZTI5GAAgACgAMPaGv/7lMDifva2RuDBAn72tkbgwShwvbGdlVkdEUitLbE82RjV4VnRycUlobGJIb009Wh4iHEZ3Mis1eUZiYjRXbVJlK1VZN253ZG1GcGxnQT1l+pHe2xKpAQgdEqQBChxscUdyL0dlT2VlUGJTcHQ0YUpyQnR2SjIwZmc9EiQzNjkwZTI1MS1iYTUyLTRiYzQtYjNlMC04ZGQ2YWUzMWI5ZDkYACAAKAAw3f/p5bkwON2B6uW5MEDdgerluTBKHDVUdGNNRDNYVndVVUtaRmZVWjMraVVTM2pUbz1aICIe//ttOEVadnYweUF2SEttT0U2RGZqaFhyVmVTOTQ9ZUI8k8cSqAEIExKjAQocTEJkaElvUWJyazFTNUhCNVlCRmdDY2kveDljPRIkY2VlNWQyYTktMmQ5YS00MzJlLTkyY2MtNmZhMTM2MTIyMDE4GAAgACgAMN3/6eW5MDiigOrluTBAooDq5bkwShxQQTFoTVNESVYxbC9GU2UwdGkrZzNaVkkyR0U9Wh8iHe5mSDNKZXZvTVJvRUxzRlpjVzZLWWN2YnZBVnc9ZfgKZh8SpwEIDxKiAQocQVdrYnZ2bkI2Ky9qM2JQUThuZ0tzODNUYlhRPRIkY2Y3ZTkyNjMtNjg4Mi00OTliLWJlMWYtYzE3MTVmODhhMzUyGAAgACgAMKOU6uW5MDiSlerluTBAkpXq5bkwShxvMExGekUrRVFYa3FsWUIwNXZucHVQMEwxNTg9Wh4iHGlNcUN6eFhsNTdZbjlENTdlNG91V2loenlzOD1lg0BDCRKpAQggEqQBChxhZDQ4cnFKeEtFQXFUZWxYNzlWN3Fpek1xaFk9EiQwNjkyNWQ5MC1lODdmLTQ5NjQtOGI1MC1mZWEzMWU0NGIyYjUYACAAKAAw3f/p5bkwOMGA6uW5MEDBgOrluTBKHDJFODVhYmo2ZjFDYzBta1ZOYll2L3FKVlJHWT1aICIe//9xYjRidzR3ZHhYZXk4bFhZaWgvNTE3d1UxbFk9ZUD21ksSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNjI1MjA3YjMtNzk5YS01N2FkLThkNDctOTczNmM5YTNjYjkyGAAgACgAMPyKoe6wMDjo5NX1pTBA6OTV9aUwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgvEqMBChxBZGxEbTQxdlZrRG9yQzJZL2xQOXNIUThoZjg9EiQ4ZmFkYmI5ZC1iMDBjLTQxMDQtOGI2NC0wNTUxOWRkOGE4N2IYACAAKAAwiqCs/uUwOMOgrP7lMEDDoKz+5TBKHHpVdnVJME8vUmN1L3FLR0JHQUZZSmtPRGc2WT1aHyId0XdVa29UWDhtenZhK0ZudEloTHZXZTk0N3NWUT1lAAAAABKnAQhHEqIBChx6NmVSMVZXVVlxMnI4T0lpZDFpSGFhQU9MNTg9EiRmODkzMjFhMS0yNTlkLTQ5NmYtYTZjNS0yYTUzMzBlN2YyYTUYACAAKAAw99nD/uUwOLvaw/7lMEC72sP+5TBKHHRocm1JV0M2djRSUTllblFUd051UkhxKzMyaz1aHiIcaVUvYVRBb1BCWkpiZCtoR1NKdCtza0ZNM1M4PWX6kd7bEqkBCC4SpAEKHFJ2dTdrNjhMaFlLNXFrN1VROXN1QmRvZVhMbz0SJDkxNTZmMmM5LWFhZjQtNGMzNy1hOTNlLTYwYTc5YWZmMGEwOBgAIAAoADDiyKv+5TA4kd/p5bkwQJHf6eW5MEocZkhuTTg1eERLcVl2UDd4SncrTUZEL1ZSU1gwPVogIh7/3kg1bDBHUXYva3F2bzZuOHJCUWJBN29Fbm9hWT1lAAAAABKpAQgfEqQBChw2OE43bUJURmZLWmF4S2s1ZUszY3B0OTVQT009EiQzZTU3Y2E3OC00NmExLTRmZmEtOWUwMy03NDY3YmZiZmMyY2YYACAAKAAwo5Tq5bkwOICW6uW5MECAlurluTBKHHA0N25DcjlvR0JsT2JzVkFnNGZhZnNWNnJ2az1aICIe//51Qnp6SkQ1M0F5eC94VWtzNG1CSkd6bU1yc3M9ZUArl40SpwEIRhKiAQocbUU1ZGtIcHdSa0RORlBJdjlIYTVya2NnN2xvPRIkN2FiZjA1YjYtNzIyMC00ZTNhLWEzMWYtNTQ1Mzc4YjQxYzNlGAAgACgAMKv/wv7lMDif48L+5TBAn+PC/uUwShw4Y2h3QTd4TWRyVzhwU3ZrYlRoWnpGQ1dNdk09Wh4iHC83S1lZbEJmdHhmRGFwNVg4eWhlTVIzb05JWT1l+pHe2xKoAQg4EqMBChxMWlJVeTk1UGZEQ1VoNVFhQ2dkUEszanZnczQ9EiQwZWQyMWE2Yy03MzRmLTQ3YzItOTMyNS01NzkwOGIzYTkxMWIYACAAKAAwk8m8wukwOOWtvMLpMEDlrbzC6TBKHGliYzJOQzlKWWtGaHdVK2tFQlFXTlF4N1Z0cz1aHyId/3JzK1grbm5KTTY1NFMybkZnUkVJTVlmazh0bz1l1UdNNBKoAQgUEqMBChxkK2VJOFNTdi9nOFEyU3g4MkxsUnRYa3lXR1E9EiRjMTc4M2U4My0wMTFiLTRmMmUtOTczMy05OTc5MGIyYWM4ZjYYACAAKAAw3f/p5bkwOK6B6uW5MECugerluTBKHFJ6RW92S2w3TElmL2FXNTRUbzdjWW9qcm1qTT1aHyId9y9wNUMvN25pcW1pRkNyVlVVa3JadktRaFpydz1leGD2QBKoAQhMEqMBChxUYmE5Vk5UWmgyUlArTXdxbUkzc3RGZ1AwVE09EiQ0Njc2OTkwYS0xNGViLTRlOGQtYjI3Mi1iNDA0MzcyN2E5YTQYACAAKAAw4vfB/uUwOKn4wf7lMECp+MH+5TBKHFJqcit0RWtxU0EyRUtKd0NSbG5YYkNGUXNqQT1aHyId/W14TFpVVkpKN1JXeU5LRXczVTQ4a2RQejlrdz1lAAAAABKoAQghEqMBChxOdGFtUHJhZGwrSitSbmVjWXNZby9ieFRjQUU9EiQxNDg1MzZmZi03YWE3LTRjNGUtOTExNS00NWJjNDVlYWI3OTkYACAAKAAwud3p5bkwOO/f6eW5MEDv3+nluTBKHGc1dWcvSnJjTWhmUGlCSVNXOUw1eEE0cXhIOD1aHyIdozB0elh1V3lyeWdVbGwxNVB6ZnQ3L0h1aENGYz1lAAAAABKnAQgiEqIBChxUMC90cmJaYjdpYnA5Z1dtdjFzMzNjcTRkRXc9EiRkYjc2NTAzNy0xNWIwLTQyNTktOWZmNi1hODUzY2VhZDk0ZjEYACAAKAAwud3p5bkwOP7f6eW5MED+3+nluTBKHGNna1dWNSs0NitmYmlsdThkSGc4cEo3Zk1lVT1aHiIcdDhNcGFCZTc4Q1VmUGJwRndWR1hNY0hSOWM0PWVsTWEGEqgBCEASowEKHHVkRi9RYWwvT0lEWGQ5aU9MWTFwY3BoUGNTbz0SJDU3OTU4ZThmLTQ5YzQtNDBmMi05ZTQwLTJhMTQ1MWNiMGRjZBgAIAAoADDvkrv+5TA4tfK6/uUwQLXyuv7lMEocamZRWERVeXhiZm5kSnRVdlRPNld5eDNqR3F3PVofIh33RkVCRVZDODZDQkUrMldOemY1UUZPdGJBWWFzPWWqiExOEqgBCCMSowEKHHREN3JvVFh3WksvU2NPb1JxNG5oRTBoY1JRND0SJGNjZjM4MWUwLTIxNTEtNDFmZC04ZjVjLTdiZDg2MzgzNTYwMRgAIAAoADC53enluTA4nuDp5bkwQJ7g6eW5MEoca05qN042cVAyTGk3Z2RvZ25WamRJYXFmSjJvPVofIh26cnBDREIrcmdOTjVGWDYzdzVJVTN3UXUxQzJBPWWEMKXTEqgBCCQSowEKHDFieG5IdXpYcUpUbkZYODFBaXVTVFRkTEtSVT0SJDc2ZDdlNTBhLTczNjctNGFhNC1hMzYzLWUxMDFjMTY1MDZkZhgAIAAoADC53enluTA4zeDp5bkwQM3g6eW5MEocZ0h6NndITG12MFhkUWNDRVhYRVdyd29YSklvPVofIh3dc3BzdXRWYXFiSmRxRHo1S2NnWFVzK3NYV3lBPWXriW/IEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGQ4ODFmMDBkLWZkMTctNTJhNS05MTliLTA2NTBmZDRiNjgyOBgAIAAoADD8iqHusDA42eTV9aUwQNnk1fWlMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEIFxKjAQocZ29QZlp5UXRwNlh2TE1VclRLNVFnSTlMR2tjPRIkMWY0MTQ3YmItNWUwMy00OTAzLTk2ODItY2NjNDU1NWQ3ZjFhGAAgACgAMN3/6eW5MDjKgurluTBAyoLq5bkwShx2MWZST3hSbGZJK2ttbFpZZ05VcExWMnVVeTA9Wh8iHf4yblBRbHRWRHdQY3FGclk0WXRkYWE2RkhVYkE9ZQAAAAASpwEIMBKiAQocMDVVM3N5WGFVVmNvSGhZQmJlTEVGZUJBUE84PRIkOWIxZDI5ODAtOWRmNC00NmJkLTk2NGUtM2E1MzQ5MjliYzU4GAAgACgAMLvmrf7lMDidzK3+5TBAncyt/uUwShx2cVZUb003ZFZsaGRURHlVSEdJZHk3cnNlOU09Wh4iHGZKL1FTUnVDWWd3RzdobnN3dkVJWWZQTmN3ND1lM5JhnRKpAQg5EqQBChxpK3J6ZWd3Q1I5a0Z5T2Fzdmk5dUxQNC9hekE9EiQ3YTdmNDI3MS02YmEyLTRiYmQtODRhYS01NzhjOGJiZTkyOTMYACAAKAAw5ZO0vvEwOJ6UtL7xMECelLS+8TBKHEtTeE03ajdSR0JYQW9nMVlENi9CVS9JamUzYz1aICIe/7lyMzFTRTdmVjFmajlCS05EemU4QjhsUnFNem89ZXdwbKMSqAEIJhKjAQocSWNQdlF5bjlsdnlndlFzUFF5VVZCQWEyejk0PRIkZjA5YzVkN2YtODMzMS00NWIzLTgyZDctNjliMmEyYmQ4NDczGAAgACgAMLnd6eW5MDj74OnluTBA++Dp5bkwShxyRXBCTUJhNGNpSDdYdEZ4OVg4aWtCRnlDWEU9Wh8iHfduNlFLL1laZGNvRjV1Sk9OZGdhT3hKYW1qeXc9ZdUSGHMSqAEIKBKjAQocT21EY2gzSzJZSnMrRXcrc0V4dU9oOW10OGxrPRIkYjg0NDU5MDUtYTFmOC00YWE1LTgwNTItMTcwY2U5NGFhYzAwGAAgACgAMLnd6eW5MDjJ4enluTBAyeHp5bkwShx2MDRyQU1sczArTmlrYnhSSFpyY2M2OFJyS2s9Wh8iHf1xa0NjUERqZEtScVZGa1ZaS1FsVm9YRWM1WkU9ZXIO01sSqAEIQRKjAQocL2R6WXozK21qaGhNU0NaYVZpdHYyQzE5Ulp3PRIkYTJhMTdhM2UtMzVkNC00YTQ2LTk4NDYtMzYzMzdkMWZiODMzGAAgACgAMKTYvP7lMDja2Lz+5TBA2ti8/uUwShxLbVVaa0pyVWt1YnVNU0VIbHh0QVBTUWZQb1k9Wh8iHfRiUFRCaU5aR3MxQU5CNTVJS1pOWlVIRmV0aGc9ZQAAAAASqAEIMhKjAQocRVNCTUxZekFtbXRmZFQwemtZYlBCQkNES1lnPRIkYTU2MTVhZjYtNWI5My00NDY2LWI2ODEtOGFmMGJkOWVjMTFkGAAgACgAMKeosf7lMDjSqLH+5TBA0qix/uUwShwzSE9lTE1EZHArWXdzQlNEZUs1dFNkdE5xeDQ9Wh8iHdlqVHYvd0FHVkkraXk2SzcwRlFncE5EZlUxczg9ZfybxPMSqQEIHhKkAQocOXdZcW1RbVlLblFTR2xHaUFSM2ZQQzhleVpvPRIkYjNiYmU1YWMtZTc2YS00NDNjLThjMmYtNmQ4MmZmMGRlNWI5GAAgACgAMN3/6eW5MDjLhOrluTBAy4Tq5bkwShwwZEF4UzRVd0p1RmlyTGJXd2NsYWdMM1FJYnM9WiAiHv/9ekRkNUx4Z3cxaTBMODFnenlhSmZLVzY2dnNFPWUAAAAAEqgBCBISowEKHGJ1S1BmRTRJY3h5dkNVbVpJRHBpZ3VYNnl0Zz0SJDRkY2RmY2FhLWIyN2EtNGVkNy05N2I4LWU1NDc5NGEyMWY1YRgAIAAoADC53enluTA49d3p5bkwQPXd6eW5MEocdkIrNG5kcUIvQjYrTUYxVFM4UTY3cUJYaHhrPVofIh3ccFc2dVRCN3Y0QWJCeVN6aC9qTlA2ZjIrdWpvPWV7e0FNEqcBCEQSogEKHHZjWFJEdTJTWXJNdXZvUDJNL0VVOEI2WU1FOD0SJDJhMjYwZDMzLWUzZGEtNGIzMy05YmUwLTQ5Njk5ZGM4NDUxZhgAIAAoADD+1MD+5TA4uNXA/uUwQLjVwP7lMEocVmNDanF3S3kxQzFjOVBUZzdYcDdIcHNFWUJnPVoeIhx2UVBINTNsT3lCWEhmQW1tYjh4RnB3dnRpUm89ZfqR3tsSqAEIThKjAQocRVpjR2lHZ1IzTWVWK3B3bTcvQmxtTlc0M213PRIkNmUwZGYwNTUtMGI4ZC00NGU0LWI5NzAtYTJkMDcyNzJhMWU5GAAgAigCMMOfk67IMTj486zE6DBAuoKTrsgxShw1UncxMWJWY0ROYjA3Z3I4UVNZMXhMdXhTVlk9Wh8iHf9NTWpabGIybjM0UmFEcW9CYTVRR091L01GYUU9ZdVHTTQSqQEIVxKkAQocWldDc1dzNXd3RC9CZWtCSXVSc2FpbEZaNG5FPRIkNmNjMGI5NzgtNjUxMy00NTA0LWEzM2YtZjhlOGI1M2E4MGQ0GAAgACgAMLvdoI2xMTiFrqCNsTFAha6gjbExShx0YVp6TlNmRndPaC85L0s2Z2U0SHdmbWcwL1E9WiAiHv/+bmxDc0p3dk8zMFZoN0krQ3NuczRZVE9oc0FBPWV3cGyjEqgBCD4SowEKHFpPbkgvNzVrQ0I5Mk9ybHpNSG9FbkFjT3prZz0SJGVjNzUwMmQxLTRmMDktNDc5Mi04ZTBlLTM5Mjg4ZDIyMjNjZhgAIAAoADCc7bj+5TA43O24/uUwQNztuP7lMEocRmVXTmpXWXZWejVoNmtSeWlSUU43V2Vja05jPVofIh3dZ0FXb0V3MWlxUDZJS1FHVUJZaGN1VEo2R2RNPWX6kd7bEqgBCEgSowEKHEdCVUF3R2xjcVcvYjl3NDQ0ejh2WHJPSE5jUT0SJDQwMmEzNDk4LWNjNDUtNGVmMy05ZDFmLTQzODNmYjE2ODE2YxgAIAAoADCg9L3j5jA4pdy94+YwQKXcvePmMEocMmorcEhQZDhzL1M3dUdWNllMa1NncU90anBBPVofIh20R1N5WElMd2xxL256TjRBMGYvdUZJWm9kalIwPWV3cGyjEqkBCFESpAEKHHlWM2pLM2wzdTIyTndZOE8wckxzQXlkekIrUT0SJGVjNGQ4YzkyLWUyMjYtNGRkZi1hNjI0LTdjOTQxM2QwNTk4MxgAIAAoADDUk5Pg8TA49Nmv3/EwQPTZr9/xMEocZWw4d3FBMStnQThDZGZ5NEhIL0dzNVg3eHJRPVogIh7/tzBUdURqZUdKckhqSWgySVNvSURjNkpGcUlzbz1ld3BsoxKoAQg9EqMBChx4a2NOYUI5Qmw1bHFGNWdJcXZMUWp0eFpXeDg9EiQ5Mjc4OWQ0Yi1hMjlhLTQ5ZjgtYTZmNS1kYzU0OWJlMzM0NjAYACAAKAAwwPW3/uUwOPf1t/7lMED39bf+5TBKHFRWa0F2YXpNZWJyY2xXZ1p4bWtDZTgrUVA1MD1aHyIdu25LbjBVSHZHWmwvZDgwbzFPdTBSc2p1bGN2cz1lo60cXxKoAQhPEqMBChx5NW9sWXI2OUR2KzM0emV6ekRSN0JDR05WN2M9EiQ0Y2M0NjQwMy02OGQzLTQ5YjMtOGY4Ny1kMmE4NDBiZTQ4ZTAYACACKAIwxp+TrsgxOIia98ToMEC7gpOuyDFKHDRxK3pNVGwvd1Y2R0dGL0podWgzQ1hXRWpHWT1aHyId/1JhYlRDYmF0MjlpemNXWXB5eG5DYmM2clRRZz1l1Ezo0BKpAQg6EqQBChxFbEJqRGVGU2d6emtFRzVmK3hQSWlCS3lYdUU9EiQ5YWFkZDRhYi03OTE0LTQzZjAtYTBlYy0xZjlkMWQ3NWZjMDkYACAAKAAwxLTftfQwOKSX37X0MECkl9+19DBKHEZnbHltU0lZUVJQREJFZUNpRUVydUNMYmdsND1aICIe/9x0eHQxamVBb3hNSk9mbDJZWmVoOTNVUmUvUW89ZXdwbKMSqAEINRKjAQocK0dIUW9hRmU5eC8wYUVXR1lKVUtTL3JSYldZPRIkMTFjNDg3Y2EtN2FhMy00ZDY5LWE4ZDktNDc1Yjk1OGI2NjdhGAAgACgAMNyzo+PmMDic8qLj5jBAnPKi4+YwShxJaFFEWDZKWXpwL05zV3cyM3RuTW5kcHlTaE09Wh8iHftpejVxR3VSb2E3c295djdmU2NaZDU2REdINlk9ZdVHTTQSqAEIOxKjAQocc1ZvK2pCOCtqaGc2Zm5OalB5anRPY3ZvOGlFPRIkZGQ5OGI5YTMtYTgwNC00MWRhLTk4MjUtYjJkNTUxZmRjMDVjGAAgACgAMKvBtf7lMDiPwrX+5TBAj8K1/uUwShxsRkF5L1B0b0UzUEJXQWFwYXpTTVh1TWFna0k9Wh8iHehUb1BObDhFSjQ4ZkMxVDlIUFpSaFN3OG9DWEk9ZQAAAAASqAEIKRKjAQocOFVsTzRjeXAxb2xJRUNKem5OY3FwSHh5K0w0PRIkYTBiMDg4NjctOTY0NS00MmRkLWI0NzgtN2Y1MDdkNTZiZDVjGAAgACgAMLnd6eW5MDjZ4enluTBA2eHp5bkwShxZdXJMajBKQUx0R1JnQzIycHNmOHZzY29hcDQ9Wh8iHf5JU0VnT2VJaVBScTg1TmVuM0dMKzVKWmJ5SWc9ZXeJIu0SqAEIMRKjAQocWmRRVzdLRnNnQytwUFgyUXB3YjVLL211QUw4PRIkZWExODY2MzctMGY0YS00OGU3LWIwMGMtODc3YmFlM2M0MzEwGAAgACgAMOOrsP7lMDiwrLD+5TBAsKyw/uUwShwyM285eEV2N0l5akV3eHFkeVcwUHJ2RHF2cU09Wh8iHbNPMTFNYmFDcUJUTCswaVRsS0FBOUYxa1BVTjA9ZfybxPMSpwEIPBKiAQocNEs2enlHUnI0cVBzUUpDMHN1NUsxNUVHRmdrPRIkYTRjYWJlNTAtOTg2YS00MzNhLTg5ZTktZjFhZDYxODhhMTc1GAAgACgAMJPntv7lMDi0ubb+5TBAtLm2/uUwShx4bXhCYWptNGJzZkdvN2d3QW5rSUdjVm4rZWc9Wh4iHHdSUndPUFo0ZVYrVmNlV3UxejBnY2pIdlY3WT1l+pHe2xKpAQgtEqQBChxXNWtDSjZFMUlrTENkN0RSNDhZRXRlbUE5dVk9EiQzNTJjOTM4Yi04ZDcwLTQ0MmUtOTFhMy0zODA5YTVlOTg0M2IYACAAKAAwud3p5bkwOObi6eW5MEDm4unluTBKHHE4c1d3NWRFU3RYRWNKSWhQVVo1bVd3VlBYZz1aICIe/7xlMEo1cTVhOVdaWW84QXNKbjVua1duZVZ2dEE9ZUc2qDUSpwEIQxKiAQoceFI5QU5jYVU0LzRnTElnR1VxRUZ6QlZFLzdJPRIkYmQ5NmRkYmYtOTZmOS00MDg0LThmMTAtMjI4N2JiMTg1MjMwGAAgACgAMJjqv/7lMDjQ6r/+5TBA0Oq//uUwShxVWjE0ZDViOVRHYlVFOHoyRmVjVGRPNFMwWW89Wh4iHFNvMDlWZzVGNTZDTElGNWFXNHpUTE43YS9VTT1l+pHe2xKoAQg2EqMBChxjUWJnd1ZnRUtVM3IxcFdLOVFYVzRxRFRhemM9EiQ0OTBmMDJiOS04NTk3LTRmMjQtYWVmZS1iZGUwZjIxMWI4ZDIYACAAKAAwip2omukwOPb9p5rpMED2/aea6TBKHFdnMnQ3VHlmOS9sbGhudmJUQUd0WGozbjlGcz1aHyId/WdvVWRvZ3pqaGNWNFZzSUZLVmxpOEtVOGRqQT1lmWInSBKoAQgqEqMBChxDNURTUFJwT2kvb1dQTG5PUHNtUEN1SUN6VXc9EiRlNWNkNTdlOC1iYTYwLTRlMGUtOTEzNC1kODU0MzY0ZTZkZWYYACAAKAAwud3p5bkwOJji6eW5MECY4unluTBKHCt3bzNtbkpGRy9jdjQ4RTRGV3htak1kM28vWT1aHyId/2NzWjBoMTl3d0NrRVlnUTdoSHFvQXNSWFpGOD1lJpu8ABKoAQhFEqMBChxqUmhiTHMxTEhXc2U3N3ZQcEVTOEdFUHplV1k9EiRiZDU2YTYxNS1jMzhhLTQwZTEtOGVhMy1jMTg4OWM1NTU1ZGEYACAAKAAw88zB/uUwOJ7Nwf7lMECezcH+5TBKHGVaOWgvZzhhRi9UcDk0d1dqcEEvN3pGdVhtND1aHyId+jVHM1kxOURzNUFhbzgxYWtueVp1cDR6OG4wND1lAAAAABKoAQg3EqMBChwzZHpqcDFnckhIOTlKM1Nqb2VPWEw4Y0tOOFk9EiQ2NWIwZTUwNy1mNjQzLTQ0NzctOTJiZC04ZGE2OTAyOTQwZWYYACAAKAAwrqbW2PswOOCbgrjpMEDgm4K46TBKHGlHZHErSkRPcXgzTFNvYmFoWllmQ0JsWlJFWT1aHyId/kNyZUdkd3MxUWNiNkhjV2hJdkxBUEJmclVJTT1laRsi8xKpAQhWEqQBChx2NzZzRCswYmhhM1MxVGNtM1RZdklvQ1lYbWc9EiQzZGJhNmQzYi05MzFjLTRhN2MtOWRhMi04MjQ4OGU3ODg3N2EYACAAKAAwlfXd+K8xOLb43fivMUC2+N34rzFKHEcyOWVHbzJ5UHBWdnFqVUVwQ2Zkc0dBUzNHST1aICIe//14ZjRlenhsVXJxQ0VpQnA1Z2ozQXd1akVFTDA9ZQAAAAASqAEISxKjAQocNnNzb1lZcittOGNjeHZTLzJNL0E4eFkrOXZNPRIkNmQxMzJmNDItZTgyZi00NGE2LTk4OWQtNjgwZDJlYzFkNzA4GAAgACgAMOW+vfv9MDiPv737/TBAj7+9+/0wShx2ODRHOTdyakUyczk3K3p2UHlzYWVQQkJhMjg9Wh8iHfZsdk9JeHhPQVhsNDFFLzM4ZVY2dlVPWnBIeE09ZXdwbKMSqQEIUhKkAQocTlp2MTVnWFdGUG1SUjAwQnZPTHA2dFo3MTVRPRIkZjc5N2ExMWEtZmU4OS00NzAxLWI1NDQtMDExN2U0MTEzYWY2GAAgAigCMMefk67IMTjmnvb+8TBAu4KTrsgxShx5OVN6SmE4eG5HR0ZXNXlYd01pWVNNYlpuTDQ9WiAiHv/bSXhQU3VPUm1XQnEwdDJmcUFhRmw4c3k5ZGlrPWXdtl/wEqgBCD8SowEKHGFKRlYxVE1sK2JjeUVrTGhwZFNhcC9KeTRxRT0SJGEzNzE4OWU0LTk1OWEtNGY2Ni1hYTgyLTVlNjM5NjQ4YTcyMhgAIAAoADDqgLr+5TA4n4G6/uUwQJ+Buv7lMEocSmMxekIwY0tEWWpyMm5ielFXKzNReHNEb1BjPVofIh3uV1BZaEZBZWxrZ0hSRHZRaEVzOThvc1pZOWtVPWWjrRxfEqgBCCUSowEKHDNkUzlERitVUjBSUFhxQUVvRlUvUERqaHhhST0SJDk1ZTM2ODhhLWJkYjctNDAyZS05ZjdiLTAyNjIzMTljMDdiOBgAIAAoADC53enluTA43ODp5bkwQNzg6eW5MEocMC8xS1FPanVvTlBwR29KTDJCekFIUkFKaHNzPVofIh3uY1JDZTcydUJIL3M1NDY5OXFwNkhoZno5c2dFPWXq8IzrEqgBCCcSowEKHFllLzNjTEM3RUF6Yi9ZVitzVzM5WUZCb1VaTT0SJGMwMjE2YjE2LWFhNjYtNDc5ZC05ODExLTNkNjdhNDI2NTVhNRgAIAAoADC53enluTA4m+Hp5bkwQJvh6eW5MEocQzlwSnFwK1h2b0FMRmNSdmowL2NNcnJQWDdJPVofIh37L3pkQXRkZ29BT2tWdzlQUFRrM1cvVFBXN1ZnPWV3iSLtEqcBCE0SogEKHDFuQlZmSEVCWGNleTU5czkzaGJ3cE9SQmZZQT0SJDI4NzUwYTJkLTE0YTItNGI5Ni05YTAzLTRkZmJlMzAzZmM2MhgAIAAoADD+0Mb+5TA4sLXG/uUwQLC1xv7lMEocL245d0l1MVhnbEFWbW4zSHlNZEFBVFltYVNFPVoeIhx4bnFwNXNwYjhiR0Q1N09oZnVhSzFBY2FuNEk9ZcHLpcoSqAEISRKjAQocd0VDamZBUW5CUkxBYllBNllIUGNGcnMrM1dvPRIkODAzYTc3MWUtMDZkMS00NTI3LWFhNzYtZjQyODEwNmQzMDVmGAAgACgAMKKrtMDpMDjmjbTA6TBA5o20wOkwShxwQU14NTl0aDh1QlFJQUpNZlRKK0VPN2hNREE9Wh8iHdozNy80d3cvamlQMDN3UzcrNXcvTzg3dEFoSW89ZZtbpScSqAEIUBKjAQocNUNZdDg0OG1rZllETVB4L1E3S2I3MC8zTE40PRIkZmEwYTVjOGYtMjU4Mi00YzI4LThmN2MtNmM4NTcyOGYzMDNkGAAgAigCMMSfk67IMTjEjNGY6TBAu4KTrsgxShxwNDljVzBBVVdjK0Z2UU1NdE0zZHVSNzdXVzA9Wh8iHf9uUE9YVmNURThoSDdTQnRmVkRKUEdEeGR5RW89ZZliJ0gSqAEIShKjAQocVzhiT2YrMG5KRVI5Um5OaTVkRTI1YU1aL25ZPRIkMjhjNmM0ODQtZDU5MC00YjgyLWJhMmItNzgxNGRkNjEwNDA5GAAgACgAMODcmsT7MDiExJrE+zBAhMSaxPswShxuYlgra1FJbXBHQjd3ZjFNazNsMHNGRkhacEk9Wh8iHe1PRFFMc2l6WjNJTDFoQWVSeG5VRDNSN042Rzg9ZfqR3tsSqQEIVRKkAQocdHZUdFM4amxYcS9JY3RMWFUwUUVTWnZrQjRvPRIkM2ZhYmM5ZmMtYzczYy00ZGFiLTgzZjItMGVhMjE3NGIwNjk4GAAgAigCMMifk67IMTi/sIri/jBAvIKTrsgxShxPRG5HTUl6WGt4Q3Jjb24ycmZGSGJEU090azQ9WiAiHv/7UHY5Q21SQ1pQeXBTaEUrNzNaSGVaVUxvdGFnPWWzf8hzMAA4AA==",
+   "version": 1
+}

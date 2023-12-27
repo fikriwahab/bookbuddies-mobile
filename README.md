@@ -1,7 +1,7 @@
 # Halaman Review (tidak terintegrate)
 Farah Dhiya Ramadhina - 2206082934
 
-branch untuk fitur halaman review yang tidak terintegrasi ke app utama, izin baru menambahkan karena sebelumnya takut terdapat error di github, dan masih coba diintegrate hingga deadline namun gagal. Setelah diskusi kelompok, awalnya hasilnya fitur saya tidak usah di push ke github karena akan disambung secara local lewat zip namun tidak berhasil sehingga akhirnya saya push untuk keperluan penilaian dan demo. Mohon maaf sebelumnya telat push namun file yang saya push telah selesai dikerjakan sebelum deadline. Terima kasih
+branch untuk fitur halaman review yang tidak terintegrasi ke app utama, izin baru menambahkan karena sebelumnya takut terdapat error di github, dan masih coba diintegrate hingga deadline namun gagal. Setelah diskusi kelompok, awalnya hasilnya fitur saya tidak usah di push ke github karena akan disambung secara local lewat zip namun tidak berhasil sehingga akhirnya saya push untuk keperluan penilaian dan demo. Mohon maaf sebelumnya telat push namun file yang saya push telah selesai dikerjakan sebelum deadline (zip app adalah fitur review saya dalam flutter yg telah saya berikan pada tanggal 20 desember sebelum deadline pada teman kelompok saya yang bertugas mengintegrate- namun gagal, dan zip app tersebut sama persis seperti yang saya push ke github ini, tidak ada perubahan sama sekali). Terima kasih
 
 ![IMG_2755](https://github.com/fikriwahab/bookbuddies-mobile/assets/124555865/0d993d15-b58b-4dce-b8a6-6cc7c41fb7db)
 
